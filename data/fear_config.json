@@ -1,0 +1,6 @@
+{
+  "ocr_engine": "PaddleOCR",
+  "data_source_mode": "ScreenCapture",
+  "overlay_opacity": 0.55,
+  "board_positions": {}
+}

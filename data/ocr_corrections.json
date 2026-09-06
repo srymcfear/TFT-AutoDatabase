@@ -1,0 +1,20 @@
+[
+  { "incorrect": "AkaIi", "correct": "Akali" },
+  { "incorrect": "Aka1i", "correct": "Akali" },
+  { "incorrect": "RekSai", "correct": "Rek'Sai" },
+  { "incorrect": "Rek Sai", "correct": "Rek'Sai" },
+  { "incorrect": "KogMaw", "correct": "Kog'Maw" },
+  { "incorrect": "Kog Maw", "correct": "Kog'Maw" },
+  { "incorrect": "ChoGath", "correct": "Cho'Gath" },
+  { "incorrect": "Cho Gath", "correct": "Cho'Gath" },
+  { "incorrect": "KhaZix", "correct": "Kha'Zix" },
+  { "incorrect": "Kha Zix", "correct": "Kha'Zix" },
+  { "incorrect": "KaiSa", "correct": "Kai'Sa" },
+  { "incorrect": "Kai Sa", "correct": "Kai'Sa" },
+  { "incorrect": "BelVeth", "correct": "Bel'Veth" },
+  { "incorrect": "K'Sante", "correct": "K'Sante" },
+  { "incorrect": "KSante", "correct": "K'Sante" },
+  { "incorrect": "Le0na", "correct": "Leona" },
+  { "incorrect": "Cami11e", "correct": "Camille" },
+  { "incorrect": "Kobuk0", "correct": "Kobuko" }
+]

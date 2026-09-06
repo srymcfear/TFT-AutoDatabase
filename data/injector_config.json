@@ -1,0 +1,8 @@
+{
+  "InjectorPath": "d:\\Windows\\Documents\\GitHub\\RIOT-GAMES\\TFT\\Noww1\\csharp\\publish\\tss\\safe_x64_injector.exe",
+  "DllPath": "d:\\Windows\\Documents\\GitHub\\RIOT-GAMES\\TFT\\Noww1\\csharp\\publish\\tss\\blitz_tft.dll",
+  "TargetProcessName": "TFTClient-Win64-Shipping.exe",
+  "AutoInject": false,
+  "RequireForeground": false,
+  "WaitMode": "any"
+}

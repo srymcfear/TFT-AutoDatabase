@@ -1,0 +1,14 @@
+{
+    "modules": {
+        "TFTClient-Win64-Shipping.exe": 3660229635
+    },
+    "hashes": {
+        "TFTClient-Win64-Shipping.exe": "43dbb47b58c73ebdce82346d2545185085cd3a84b43826b46d4415967fc64190"
+    },
+    "offsets": {
+        "1284305945": 1181216014,
+        "1705537255": 1870026832
+    },
+    "algorithms": {},
+    "minVersion": 1
+}

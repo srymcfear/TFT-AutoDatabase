@@ -1,0 +1,112 @@
+{
+  "_comment": "Auto-calibrated by hud_calibrator.py",
+  "_capture": {
+    "strip_w": 1920,
+    "strip_h": 222,
+    "client_w": 1920,
+    "client_h": 1009,
+    "y_offset_in_client": 787
+  },
+  "zones": {
+    "LV_XP": {
+      "x_px": 285,
+      "y_px": 36,
+      "w_px": 170,
+      "h_px": 27,
+      "x_ratio": 0.148438,
+      "y_ratio": 0.162162,
+      "w_ratio": 0.088542,
+      "h_ratio": 0.121622
+    },
+    "GOLD": {
+      "x_px": 896,
+      "y_px": 39,
+      "w_px": 63,
+      "h_px": 29,
+      "x_ratio": 0.466667,
+      "y_ratio": 0.175676,
+      "w_ratio": 0.032813,
+      "h_ratio": 0.130631
+    },
+    "STREAK": {
+      "x_px": 1000,
+      "y_px": 31,
+      "w_px": 59,
+      "h_px": 30,
+      "x_ratio": 0.520833,
+      "y_ratio": 0.13964,
+      "w_ratio": 0.030729,
+      "h_ratio": 0.135135
+    },
+    "SLOT_1": {
+      "x_px": 481,
+      "y_px": 84,
+      "w_px": 179,
+      "h_px": 131,
+      "x_ratio": 0.250521,
+      "y_ratio": 0.378378,
+      "w_ratio": 0.093229,
+      "h_ratio": 0.59009
+    },
+    "SLOT_2": {
+      "x_px": 671,
+      "y_px": 83,
+      "w_px": 178,
+      "h_px": 134,
+      "x_ratio": 0.349479,
+      "y_ratio": 0.373874,
+      "w_ratio": 0.092708,
+      "h_ratio": 0.603604
+    },
+    "SLOT_3": {
+      "x_px": 859,
+      "y_px": 83,
+      "w_px": 178,
+      "h_px": 132,
+      "x_ratio": 0.447396,
+      "y_ratio": 0.373874,
+      "w_ratio": 0.092708,
+      "h_ratio": 0.594595
+    },
+    "SLOT_4": {
+      "x_px": 1046,
+      "y_px": 83,
+      "w_px": 181,
+      "h_px": 131,
+      "x_ratio": 0.544792,
+      "y_ratio": 0.373874,
+      "w_ratio": 0.094271,
+      "h_ratio": 0.59009
+    },
+    "SLOT_5": {
+      "x_px": 1238,
+      "y_px": 84,
+      "w_px": 179,
+      "h_px": 130,
+      "x_ratio": 0.644792,
+      "y_ratio": 0.378378,
+      "w_ratio": 0.093229,
+      "h_ratio": 0.585586
+    },
+    "BUY_XP": {
+      "x_px": 278,
+      "y_px": 78,
+      "w_px": 187,
+      "h_px": 66,
+      "x_ratio": 0.144792,
+      "y_ratio": 0.351351,
+      "w_ratio": 0.097396,
+      "h_ratio": 0.297297
+    },
+    "REROLL": {
+      "x_px": 278,
+      "y_px": 146,
+      "w_px": 187,
+      "h_px": 66,
+      "x_ratio": 0.144792,
+      "y_ratio": 0.657658,
+      "w_ratio": 0.097396,
+      "h_ratio": 0.297297
+    }
+  }
+}

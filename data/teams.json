@@ -1,0 +1,1072 @@
+{
+  "teams": {
+    "[META] Thần Rừng Draven": {
+      "champions": [
+        "Alistar",
+        "Ezreal",
+        "Amumu18",
+        "GnarSmall",
+        "Ivern",
+        "Kennen",
+        "Maokai",
+        "Draven18",
+        "Taric18"
+      ],
+      "details": [
+        {
+          "name": "Alistar",
+          "key": "DA_18_Alistar",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "name": "Ezreal",
+          "key": "DA_18_Ezreal",
+          "tier": 2,
+          "is_core": true,
+          "items": [
+            "Deathblade",
+            "LastWhisper",
+            "SpearOfShojin"
+          ],
+          "position": {
+            "x": 5,
+            "y": 1
+          }
+        },
+        {
+          "name": "Amumu18",
+          "key": "DA_Amumu18",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 5,
+            "y": 4
+          }
+        },
+        {
+          "name": "GnarSmall",
+          "key": "DA_18_GnarSmall",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 4,
+            "y": 1
+          }
+        },
+        {
+          "name": "Ivern",
+          "key": "DA_18_Ivern",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 2,
+            "y": 1
+          }
+        },
+        {
+          "name": "Kennen",
+          "key": "DA_18_Kennen",
+          "tier": 2,
+          "is_core": false,
+          "items": [
+            "EdgeOfNight",
+            "HandOfJustice",
+            "RabadonsDeathcap"
+          ],
+          "position": {
+            "x": 3,
+            "y": 1
+          }
+        },
+        {
+          "name": "Maokai",
+          "key": "DA_18_Maokai",
+          "tier": 2,
+          "is_core": true,
+          "items": [
+            "GargoyleStoneplate",
+            "SpiritVisage",
+            "WarmogsArmor"
+          ],
+          "position": {
+            "x": 3,
+            "y": 4
+          }
+        },
+        {
+          "name": "Draven18",
+          "key": "DA_Draven18",
+          "tier": 2,
+          "is_core": true,
+          "items": [
+            "Deathblade",
+            "GuinsoosRageblade",
+            "KrakensFury"
+          ],
+          "position": {
+            "x": 7,
+            "y": 1
+          }
+        },
+        {
+          "name": "Taric18",
+          "key": "DA_Taric18",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 4,
+            "y": 4
+          }
+        }
+      ],
+      "source": "OP.GG"
+    },
+    "[META] Vệ Quân Cassiopeia": {
+      "champions": [
+        "Leona",
+        "Ornn",
+        "Shen",
+        "Cassiopeia",
+        "Rammus",
+        "Fiddlesticks18",
+        "Lillia",
+        "Soraka"
+      ],
+      "details": [
+        {
+          "name": "Leona",
+          "key": "DA_18_Leona",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 1,
+            "y": 4
+          }
+        },
+        {
+          "name": "Ornn",
+          "key": "DA_18_Ornn",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 6,
+            "y": 4
+          }
+        },
+        {
+          "name": "Shen",
+          "key": "DA_18_Shen",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 2,
+            "y": 4
+          }
+        },
+        {
+          "name": "Cassiopeia",
+          "key": "DA_18_Cassiopeia",
+          "tier": 3,
+          "is_core": true,
+          "items": [
+            "ArchangelsStaff",
+            "BlueBuff",
+            "HextechGunblade"
+          ],
+          "position": {
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "name": "Rammus",
+          "key": "DA_18_Rammus",
+          "tier": 3,
+          "is_core": true,
+          "items": [
+            "GargoyleStoneplate",
+            "SteadfastHeart",
+            "WarmogsArmor"
+          ],
+          "position": {
+            "x": 5,
+            "y": 4
+          }
+        },
+        {
+          "name": "Fiddlesticks18",
+          "key": "DA_Fiddlesticks18",
+          "tier": 3,
+          "is_core": true,
+          "items": [
+            "IonicSpark",
+            "SpiritVisage",
+            "SunfireCape"
+          ],
+          "position": {
+            "x": 4,
+            "y": 4
+          }
+        },
+        {
+          "name": "Lillia",
+          "key": "DA_18_Lillia",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 3,
+            "y": 4
+          }
+        },
+        {
+          "name": "Soraka",
+          "key": "DA_18_Soraka",
+          "tier": 2,
+          "is_core": false,
+          "items": [
+            "JeweledGauntlet",
+            "NashorsTooth",
+            "SpearOfShojin"
+          ],
+          "position": {
+            "x": 2,
+            "y": 1
+          }
+        }
+      ],
+      "source": "OP.GG"
+    },
+    "[META] Liên Kích Kayle": {
+      "champions": [
+        "Leona",
+        "Ornn",
+        "Rakan",
+        "Xayah",
+        "Kayle",
+        "Sejuani",
+        "Hecarim",
+        "Aphelios"
+      ],
+      "details": [
+        {
+          "name": "Leona",
+          "key": "DA_18_Leona",
+          "tier": 3,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 5,
+            "y": 4
+          }
+        },
+        {
+          "name": "Ornn",
+          "key": "DA_18_Ornn",
+          "tier": 3,
+          "is_core": true,
+          "items": [
+            "GargoyleStoneplate",
+            "SpiritVisage",
+            "WarmogsArmor"
+          ],
+          "position": {
+            "x": 3,
+            "y": 4
+          }
+        },
+        {
+          "name": "Rakan",
+          "key": "DA_18_Rakan",
+          "tier": 3,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 7,
+            "y": 4
+          }
+        },
+        {
+          "name": "Xayah",
+          "key": "DA_18_Xayah",
+          "tier": 3,
+          "is_core": true,
+          "items": [
+            "Deathblade",
+            "GuinsoosRageblade",
+            "RedBuff"
+          ],
+          "position": {
+            "x": 6,
+            "y": 1
+          }
+        },
+        {
+          "name": "Kayle",
+          "key": "DA_18_Kayle",
+          "tier": 3,
+          "is_core": true,
+          "items": [
+            "GuinsoosRageblade",
+            "JeweledGauntlet",
+            "RabadonsDeathcap"
+          ],
+          "position": {
+            "x": 7,
+            "y": 1
+          }
+        },
+        {
+          "name": "Sejuani",
+          "key": "DA_18_Sejuani",
+          "tier": 3,
+          "is_core": false,
+          "items": [
+            "GargoyleStoneplate",
+            "SpiritVisage",
+            "WarmogsArmor"
+          ],
+          "position": {
+            "x": 6,
+            "y": 4
+          }
+        },
+        {
+          "name": "Hecarim",
+          "key": "DA_18_Hecarim",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 4,
+            "y": 4
+          }
+        },
+        {
+          "name": "Aphelios",
+          "key": "DA_18_Aphelios",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 1,
+            "y": 1
+          }
+        }
+      ],
+      "source": "OP.GG"
+    },
+    "[META] Quái Rừng Pebbles": {
+      "champions": [
+        "Sentry",
+        "Cinderling18",
+        "AP",
+        "Murkwolf18",
+        "Scuttlecrab18",
+        "CrimsonRaptor18",
+        "Krug18",
+        "Brambleback18",
+        "Sentinel18"
+      ],
+      "details": [
+        {
+          "name": "Sentry",
+          "key": "DA_18_Sentry",
+          "tier": 3,
+          "is_core": true,
+          "items": [
+            "BlueBuff",
+            "JeweledGauntlet",
+            "RabadonsDeathcap"
+          ],
+          "position": {
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "name": "Cinderling18",
+          "key": "DA_Cinderling18",
+          "tier": 3,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 5,
+            "y": 1
+          }
+        },
+        {
+          "name": "AP",
+          "key": "DA_Gromp18_AP",
+          "tier": 3,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 3,
+            "y": 1
+          }
+        },
+        {
+          "name": "Murkwolf18",
+          "key": "DA_Murkwolf18",
+          "tier": 3,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 1,
+            "y": 3
+          }
+        },
+        {
+          "name": "Scuttlecrab18",
+          "key": "DA_Scuttlecrab18",
+          "tier": 3,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 5,
+            "y": 4
+          }
+        },
+        {
+          "name": "CrimsonRaptor18",
+          "key": "DA_CrimsonRaptor18",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 2,
+            "y": 1
+          }
+        },
+        {
+          "name": "Krug18",
+          "key": "DA_Krug18",
+          "tier": 3,
+          "is_core": true,
+          "items": [
+            "GargoyleStoneplate",
+            "SpiritVisage",
+            "WarmogsArmor"
+          ],
+          "position": {
+            "x": 3,
+            "y": 4
+          }
+        },
+        {
+          "name": "Brambleback18",
+          "key": "DA_Brambleback18",
+          "tier": 2,
+          "is_core": true,
+          "items": [
+            "Bloodthirster",
+            "SteraksGage",
+            "TitansResolve"
+          ],
+          "position": {
+            "x": 7,
+            "y": 3
+          }
+        },
+        {
+          "name": "Sentinel18",
+          "key": "DA_Sentinel18",
+          "tier": 2,
+          "is_core": false,
+          "items": [
+            "GargoyleStoneplate",
+            "SpiritVisage",
+            "WarmogsArmor"
+          ],
+          "position": {
+            "x": 6,
+            "y": 4
+          }
+        }
+      ],
+      "source": "OP.GG"
+    },
+    "[META] Tinh Nghịch Rek'Sai": {
+      "champions": [
+        "Kobuko",
+        "RekSai",
+        "Veigar",
+        "Teemo",
+        "Rammus",
+        "Fiddlesticks18",
+        "Sett",
+        "GnarSmall"
+      ],
+      "details": [
+        {
+          "name": "Kobuko",
+          "key": "DA_18_Kobuko",
+          "tier": 3,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 4,
+            "y": 2
+          }
+        },
+        {
+          "name": "RekSai",
+          "key": "DA_18_RekSai",
+          "tier": 3,
+          "is_core": true,
+          "items": [
+            "GargoyleStoneplate",
+            "GargoyleStoneplate",
+            "WarmogsArmor"
+          ],
+          "position": {
+            "x": 4,
+            "y": 4
+          }
+        },
+        {
+          "name": "Veigar",
+          "key": "DA_18_Veigar",
+          "tier": 3,
+          "is_core": true,
+          "items": [
+            "18_EmblemFloraFatalisAugment",
+            "BlueBuff",
+            "JeweledGauntlet"
+          ],
+          "position": {
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "name": "Teemo",
+          "key": "DA_18_Teemo",
+          "tier": 3,
+          "is_core": true,
+          "items": [
+            "Morellonomicon",
+            "SpearOfShojin",
+            "VoidStaff"
+          ],
+          "position": {
+            "x": 2,
+            "y": 1
+          }
+        },
+        {
+          "name": "Rammus",
+          "key": "DA_18_Rammus",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 5,
+            "y": 2
+          }
+        },
+        {
+          "name": "Fiddlesticks18",
+          "key": "DA_Fiddlesticks18",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 3,
+            "y": 2
+          }
+        },
+        {
+          "name": "Sett",
+          "key": "DA_18_Sett",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 2,
+            "y": 2
+          }
+        },
+        {
+          "name": "GnarSmall",
+          "key": "DA_18_GnarSmall",
+          "tier": 2,
+          "is_core": false,
+          "items": [
+            "Bloodthirster",
+            "SteraksGage",
+            "TitansResolve"
+          ],
+          "position": {
+            "x": 3,
+            "y": 3
+          }
+        }
+      ],
+      "source": "OP.GG"
+    },
+    "[META] Thích Ứng Master Yi": {
+      "champions": [
+        "Yorick",
+        "AP",
+        "AD",
+        "AD",
+        "Krug18",
+        "Vi18",
+        "Sett",
+        "AP"
+      ],
+      "details": [
+        {
+          "name": "Yorick",
+          "key": "DA_18_Yorick",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 1,
+            "y": 3
+          }
+        },
+        {
+          "name": "AP",
+          "key": "DA_Gromp18_AP",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 5,
+            "y": 1
+          }
+        },
+        {
+          "name": "AD",
+          "key": "DA_18_MasterYi_AD",
+          "tier": 3,
+          "is_core": true,
+          "items": [
+            "EdgeOfNight",
+            "GuinsoosRageblade",
+            "TitansResolve"
+          ],
+          "position": {
+            "x": 7,
+            "y": 2
+          }
+        },
+        {
+          "name": "AD",
+          "key": "DA_KogMaw18_AD",
+          "tier": 3,
+          "is_core": true,
+          "items": [
+            "InfinityEdge",
+            "RedBuff",
+            "SpearOfShojin"
+          ],
+          "position": {
+            "x": 7,
+            "y": 1
+          }
+        },
+        {
+          "name": "Krug18",
+          "key": "DA_Krug18",
+          "tier": 3,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 2,
+            "y": 4
+          }
+        },
+        {
+          "name": "Vi18",
+          "key": "DA_Vi18",
+          "tier": 3,
+          "is_core": true,
+          "items": [
+            "GargoyleStoneplate",
+            "SpiritVisage",
+            "WarmogsArmor"
+          ],
+          "position": {
+            "x": 6,
+            "y": 4
+          }
+        },
+        {
+          "name": "Sett",
+          "key": "DA_18_Sett",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 1,
+            "y": 4
+          }
+        },
+        {
+          "name": "AP",
+          "key": "DA_Nidalee18_AP",
+          "tier": 2,
+          "is_core": false,
+          "items": [
+            "GuinsoosRageblade",
+            "JeweledGauntlet",
+            "StrikersFlail"
+          ],
+          "position": {
+            "x": 6,
+            "y": 1
+          }
+        }
+      ],
+      "source": "OP.GG"
+    },
+    "[META] Hoa Linh Ahri": {
+      "champions": [
+        "Yorick",
+        "Karma18",
+        "Vi18",
+        "Ahri",
+        "Sett",
+        "Sivir",
+        "Zyra",
+        "Ashe",
+        "GnarSmall"
+      ],
+      "details": [
+        {
+          "name": "Yorick",
+          "key": "DA_18_Yorick",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 5,
+            "y": 2
+          }
+        },
+        {
+          "name": "Karma18",
+          "key": "DA_Karma18",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 4,
+            "y": 1
+          }
+        },
+        {
+          "name": "Vi18",
+          "key": "DA_Vi18",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 3,
+            "y": 2
+          }
+        },
+        {
+          "name": "Ahri",
+          "key": "DA_18_Ahri",
+          "tier": 2,
+          "is_core": true,
+          "items": [
+            "JeweledGauntlet",
+            "SpearOfShojin",
+            "StrikersFlail"
+          ],
+          "position": {
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "name": "Sett",
+          "key": "DA_18_Sett",
+          "tier": 2,
+          "is_core": true,
+          "items": [
+            "GargoyleStoneplate",
+            "GargoyleStoneplate",
+            "WarmogsArmor"
+          ],
+          "position": {
+            "x": 4,
+            "y": 4
+          }
+        },
+        {
+          "name": "Sivir",
+          "key": "DA_18_Sivir",
+          "tier": 2,
+          "is_core": false,
+          "items": [
+            "Deathblade",
+            "InfinityEdge",
+            "SpearOfShojin"
+          ],
+          "position": {
+            "x": 2,
+            "y": 1
+          }
+        },
+        {
+          "name": "Zyra",
+          "key": "DA_18_Zyra",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 3,
+            "y": 1
+          }
+        },
+        {
+          "name": "Ashe",
+          "key": "DA_18_Ashe",
+          "tier": 2,
+          "is_core": true,
+          "items": [
+            "LastWhisper",
+            "RedBuff",
+            "SpearOfShojin"
+          ],
+          "position": {
+            "x": 7,
+            "y": 1
+          }
+        },
+        {
+          "name": "GnarSmall",
+          "key": "DA_18_GnarSmall",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": {
+            "x": 4,
+            "y": 2
+          }
+        }
+      ],
+      "source": "OP.GG"
+    },
+    "[META] Hỏa Ngục Draven": {
+      "champions": [
+        "Amumu18",
+        "Sentinel18",
+        "ElderDragon",
+        "Ivern",
+        "Kennen",
+        "Maokai",
+        "Draven18",
+        "Taric18"
+      ],
+      "details": [
+        {
+          "name": "Amumu18",
+          "key": "DA_Amumu18",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": null
+        },
+        {
+          "name": "Sentinel18",
+          "key": "DA_Sentinel18",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": null
+        },
+        {
+          "name": "ElderDragon",
+          "key": "DA_18_ElderDragon",
+          "tier": 2,
+          "is_core": true,
+          "items": [
+            "InfinityEdge",
+            "LastWhisper",
+            "StrikersFlail"
+          ],
+          "position": null
+        },
+        {
+          "name": "Ivern",
+          "key": "DA_18_Ivern",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": null
+        },
+        {
+          "name": "Kennen",
+          "key": "DA_18_Kennen",
+          "tier": 2,
+          "is_core": false,
+          "items": [
+            "EdgeOfNight",
+            "HandOfJustice",
+            "JeweledGauntlet"
+          ],
+          "position": null
+        },
+        {
+          "name": "Maokai",
+          "key": "DA_18_Maokai",
+          "tier": 2,
+          "is_core": true,
+          "items": [
+            "GargoyleStoneplate",
+            "SpiritVisage",
+            "WarmogsArmor"
+          ],
+          "position": null
+        },
+        {
+          "name": "Draven18",
+          "key": "DA_Draven18",
+          "tier": 2,
+          "is_core": true,
+          "items": [
+            "Deathblade",
+            "GuinsoosRageblade",
+            "KrakensFury"
+          ],
+          "position": null
+        },
+        {
+          "name": "Taric18",
+          "key": "DA_Taric18",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": null
+        }
+      ],
+      "source": "OP.GG"
+    },
+    "[META] Thần Rừng Aphelios": {
+      "champions": [
+        "Ornn",
+        "Xayah",
+        "Alistar",
+        "Diana",
+        "Hecarim",
+        "Aphelios",
+        "Lillia",
+        "Alune",
+        "GnarSmall"
+      ],
+      "details": [
+        {
+          "name": "Ornn",
+          "key": "DA_18_Ornn",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": null
+        },
+        {
+          "name": "Xayah",
+          "key": "DA_18_Xayah",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": null
+        },
+        {
+          "name": "Alistar",
+          "key": "DA_18_Alistar",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": null
+        },
+        {
+          "name": "Diana",
+          "key": "DA_18_Diana",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": null
+        },
+        {
+          "name": "Hecarim",
+          "key": "DA_18_Hecarim",
+          "tier": 2,
+          "is_core": false,
+          "items": [
+            "Evenshroud",
+            "SunfireCape",
+            "WarmogsArmor"
+          ],
+          "position": null
+        },
+        {
+          "name": "Aphelios",
+          "key": "DA_18_Aphelios",
+          "tier": 2,
+          "is_core": true,
+          "items": [
+            "Deathblade",
+            "GuinsoosRageblade",
+            "InfinityEdge"
+          ],
+          "position": null
+        },
+        {
+          "name": "Lillia",
+          "key": "DA_18_Lillia",
+          "tier": 2,
+          "is_core": true,
+          "items": [
+            "Evenshroud",
+            "ProtectorsVow",
+            "SunfireCape"
+          ],
+          "position": null
+        },
+        {
+          "name": "Alune",
+          "key": "DA_18_Alune",
+          "tier": 2,
+          "is_core": true,
+          "items": [
+            "JeweledGauntlet",
+            "SpearOfShojin",
+            "VoidStaff"
+          ],
+          "position": null
+        },
+        {
+          "name": "GnarSmall",
+          "key": "DA_18_GnarSmall",
+          "tier": 2,
+          "is_core": false,
+          "items": [],
+          "position": null
+        }
+      ],
+      "source": "OP.GG"
+    }
+  }
+}

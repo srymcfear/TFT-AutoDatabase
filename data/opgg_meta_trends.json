@@ -1,0 +1,5032 @@
+[
+  {
+    "id": "c5a44db118188c9565578d30c786b078",
+    "name": "Thần Rừng Draven",
+    "tier": "S",
+    "avgRank": 3.12,
+    "top4Rate": "73.3%",
+    "winRate": "33.1%",
+    "pickRate": "2.0%",
+    "isHeroAugment": false,
+    "cost": 120,
+    "teamCode": "023eb3ff3ed40140540b4153fb430000TFTSet18",
+    "traits": [
+      "Thụ Thần",
+      "Cổ Thụ",
+      "Săn Thưởng",
+      "Lục Bảo",
+      "Đấu Sĩ",
+      "Đao Phủ",
+      "Hỏa Ngục",
+      "Dũng Sĩ",
+      "Thần Rừng",
+      "Tinh Nghịch",
+      "Tiên Phong"
+    ],
+    "units": [
+      {
+        "name": "Alistar",
+        "key": "DA_18_Alistar",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Ezreal",
+        "key": "DA_18_Ezreal",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Kiếm Tử Thần",
+          "Cung Xanh",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      {
+        "name": "Amumu",
+        "key": "DA_Amumu18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Gnar",
+        "key": "DA_18_GnarSmall",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Ivern",
+        "key": "DA_18_Ivern",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Kennen",
+        "key": "DA_18_Kennen",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Áo Choàng Bóng Tối",
+          "Bàn Tay Công Lý",
+          "Mũ Phù Thủy Rabadon"
+        ]
+      },
+      {
+        "name": "Maokai",
+        "key": "DA_18_Maokai",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Draven",
+        "key": "DA_Draven18",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Kiếm Tử Thần",
+          "Cuồng Đao Guinsoo",
+          "Thịnh Nộ Thủy Quái"
+        ]
+      },
+      {
+        "name": "Taric",
+        "key": "DA_Taric18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "744234e84d716f4b87a69a7d85888ea3",
+    "name": "Vệ Quân Cassiopeia",
+    "tier": "S",
+    "avgRank": 3.42,
+    "top4Rate": "73.5%",
+    "winRate": "14.7%",
+    "pickRate": "1.6%",
+    "isHeroAugment": false,
+    "cost": 63,
+    "teamCode": "0241141f42b3f642140041242e000000TFTSet18",
+    "traits": [
+      "Thực Vật",
+      "Vệ Quân",
+      "Thuật Sư",
+      "Tiên Hắc Ám",
+      "Mặt Trời",
+      "Tiên Linh",
+      "Thần Rừng",
+      "Tinh Nghịch",
+      "Hỏa Ngục",
+      "Đao Phủ"
+    ],
+    "units": [
+      {
+        "name": "Leona",
+        "key": "DA_18_Leona",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Ornn",
+        "key": "DA_18_Ornn",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Shen",
+        "key": "DA_18_Shen",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Cassiopeia",
+        "key": "DA_18_Cassiopeia",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Quyền Trượng Thiên Thần",
+          "Bùa Xanh",
+          "Kiếm Súng Hextech"
+        ]
+      },
+      {
+        "name": "Rammus",
+        "key": "DA_18_Rammus",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Trái Tim Kiên Định",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Fiddlesticks",
+        "key": "DA_Fiddlesticks18",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Nỏ Sét",
+          "Giáp Tâm Linh",
+          "Áo Choàng Lửa"
+        ]
+      },
+      {
+        "name": "Lillia",
+        "key": "DA_18_Lillia",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Soraka",
+        "key": "DA_18_Soraka",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Găng Bảo Thạch",
+          "Nanh Nashor",
+          "Ngọn Giáo Shojin"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "25e6c08cee3fb517b00a8c3cb27179a7",
+    "name": "Quái Rừng Elder Dragon",
+    "tier": "S",
+    "avgRank": 2.51,
+    "top4Rate": "87.4%",
+    "winRate": "35.8%",
+    "pickRate": "0.8%",
+    "isHeroAugment": false,
+    "cost": 87,
+    "teamCode": "0242941940f3f34283fc401430000000TFTSet18",
+    "traits": [
+      "Bá Chủ",
+      "Lục Bảo",
+      "Quái Rừng",
+      "Đấu Sĩ",
+      "Thuật Sĩ",
+      "Tàn Phá",
+      "Tiên Phong",
+      "Thần Rừng",
+      "Tinh Nghịch"
+    ],
+    "units": [
+      {
+        "name": "Sỏi",
+        "key": "DA_18_Sentry",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Bùa Xanh",
+          "Găng Bảo Thạch",
+          "Mũ Phù Thủy Rabadon"
+        ]
+      },
+      {
+        "name": "Sói Hắc Ám",
+        "key": "DA_Murkwolf18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Quái Đá Krug",
+        "key": "DA_Krug18",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Bụi Gai Đỏ",
+        "key": "DA_Brambleback18",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Huyết Kiếm",
+          "Áo Choàng Bóng Tối",
+          "Áo Choàng Thủy Ngân"
+        ]
+      },
+      {
+        "name": "Người Đá",
+        "key": "DA_Sentinel18",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Lời Thề Hộ Vệ",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Rồng Ngàn Tuổi",
+        "key": "DA_18_ElderDragon",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Vô Cực Kiếm",
+          "Cung Xanh",
+          "Chùy Đoản Côn"
+        ]
+      },
+      {
+        "name": "Gnar",
+        "key": "DA_18_GnarSmall",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Taric",
+        "key": "DA_Taric18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "cd2ff8ee4b6b682adfd9e77363573881",
+    "name": "Thích Ứng Master Yi",
+    "tier": "S",
+    "avgRank": 2.93,
+    "top4Rate": "80.4%",
+    "winRate": "26.6%",
+    "pickRate": "0.8%",
+    "isHeroAugment": false,
+    "cost": 72,
+    "teamCode": "0243a41642440e40f43742a41b000000TFTSet18",
+    "traits": [
+      "Khắc Tinh",
+      "Ăn Mòn",
+      "Thích Ứng",
+      "Đấu Sĩ",
+      "Dũng Sĩ",
+      "Nguyên Sinh",
+      "Hoa Linh",
+      "Triệu Hồi",
+      "Thuật Sĩ",
+      "Quái Rừng"
+    ],
+    "units": [
+      {
+        "name": "Yorick",
+        "key": "DA_18_Yorick",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Master Yi",
+        "key": "DA_18_MasterYi_AD",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Áo Choàng Bóng Tối",
+          "Cuồng Đao Guinsoo",
+          "Quyền Năng Khổng Lồ"
+        ]
+      },
+      {
+        "name": "Rengar",
+        "key": "DA_18_Rengar",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Áo Choàng Bóng Tối",
+          "Cuồng Đao Guinsoo",
+          "Quyền Năng Khổng Lồ"
+        ]
+      },
+      {
+        "name": "Kog'Maw",
+        "key": "DA_KogMaw18_AD",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Quái Đá Krug",
+        "key": "DA_Krug18",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Vi",
+        "key": "DA_Vi18",
+        "star": 3,
+        "isCore": false,
+        "items": [
+          "Giáp Vai Nguyệt Thần",
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Sett",
+        "key": "DA_18_Sett",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Nidalee",
+        "key": "DA_Nidalee18_AP",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Cuồng Đao Guinsoo",
+          "Găng Bảo Thạch",
+          "Chùy Đoản Côn"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d29ea90617cb45719e83f833fb98220d",
+    "name": "Liên Kích Kayle",
+    "tier": "S",
+    "avgRank": 2.84,
+    "top4Rate": "81.7%",
+    "winRate": "28.6%",
+    "pickRate": "0.7%",
+    "isHeroAugment": false,
+    "cost": 45,
+    "teamCode": "0241141f42043940a4274033ef000000TFTSet18",
+    "traits": [
+      "Mặt Trời",
+      "Liên Kích",
+      "Tiên Phong",
+      "Vệ Quân",
+      "Tiên Linh",
+      "Dũng Sĩ",
+      "Thần Rừng",
+      "Mặt Trăng"
+    ],
+    "units": [
+      {
+        "name": "Leona",
+        "key": "DA_18_Leona",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Ornn",
+        "key": "DA_18_Ornn",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Rakan",
+        "key": "DA_18_Rakan",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Xayah",
+        "key": "DA_18_Xayah",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Kiếm Tử Thần",
+          "Cuồng Đao Guinsoo",
+          "Bùa Đỏ"
+        ]
+      },
+      {
+        "name": "Kayle",
+        "key": "DA_18_Kayle",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Cuồng Đao Guinsoo",
+          "Găng Bảo Thạch",
+          "Mũ Phù Thủy Rabadon"
+        ]
+      },
+      {
+        "name": "Sejuani",
+        "key": "DA_18_Sejuani",
+        "star": 3,
+        "isCore": false,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Hecarim",
+        "key": "DA_18_Hecarim",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Aphelios",
+        "key": "DA_18_Aphelios",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "e63491d43d40f5cefe3a5f004342845a",
+    "name": "Tinh Nghịch Rek'Sai",
+    "tier": "S",
+    "avgRank": 3.05,
+    "top4Rate": "81.1%",
+    "winRate": "18.1%",
+    "pickRate": "0.7%",
+    "isHeroAugment": false,
+    "cost": 60,
+    "teamCode": "0243d42343643142140042a401000000TFTSet18",
+    "traits": [
+      "Đấu Sĩ",
+      "Tinh Nghịch",
+      "Thực Vật",
+      "Vệ Quân",
+      "Gai Đen",
+      "Thuật Sư",
+      "Thần Rừng",
+      "Hoa Linh",
+      "Thuật Sĩ"
+    ],
+    "units": [
+      {
+        "name": "Kobuko",
+        "key": "DA_18_Kobuko",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Rek'Sai",
+        "key": "DA_18_RekSai",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Veigar",
+        "key": "DA_18_Veigar",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Ấn Thực Vật",
+          "Bùa Xanh",
+          "Găng Bảo Thạch"
+        ]
+      },
+      {
+        "name": "Teemo",
+        "key": "DA_18_Teemo",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Quỷ Thư Morello",
+          "Ngọn Giáo Shojin",
+          "Trượng Hư Vô"
+        ]
+      },
+      {
+        "name": "Rammus",
+        "key": "DA_18_Rammus",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Fiddlesticks",
+        "key": "DA_Fiddlesticks18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Sett",
+        "key": "DA_18_Sett",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Gnar",
+        "key": "DA_18_GnarSmall",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Huyết Kiếm",
+          "Móng Vuốt Sterak",
+          "Quyền Năng Khổng Lồ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b6a673e27487318cb9d61351edf6dd1b",
+    "name": "Hoa Linh Ahri",
+    "tier": "S",
+    "avgRank": 2.87,
+    "top4Rate": "82.3%",
+    "winRate": "26.5%",
+    "pickRate": "0.4%",
+    "isHeroAugment": false,
+    "cost": 93,
+    "teamCode": "0243a4074373e942a42c43c3f0401000TFTSet18",
+    "traits": [
+      "Vườn Gai",
+      "Hoa Linh",
+      "Thuật Sư",
+      "Thợ Săn",
+      "Đấu Sĩ",
+      "Nguyên Sinh",
+      "Dũng Sĩ",
+      "Triệu Hồi",
+      "Thần Rừng",
+      "Tinh Nghịch"
+    ],
+    "units": [
+      {
+        "name": "Yorick",
+        "key": "DA_18_Yorick",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Karma",
+        "key": "DA_Karma18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Vi",
+        "key": "DA_Vi18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Ahri",
+        "key": "DA_18_Ahri",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Găng Bảo Thạch",
+          "Ngọn Giáo Shojin",
+          "Chùy Đoản Côn"
+        ]
+      },
+      {
+        "name": "Sett",
+        "key": "DA_18_Sett",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Sivir",
+        "key": "DA_18_Sivir",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Kiếm Tử Thần",
+          "Vô Cực Kiếm",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      {
+        "name": "Zyra",
+        "key": "DA_18_Zyra",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Ashe",
+        "key": "DA_18_Ashe",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Cung Xanh",
+          "Bùa Đỏ",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      {
+        "name": "Gnar",
+        "key": "DA_18_GnarSmall",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "96aeda6509f73e075c028fbbfc984091",
+    "name": "Hỏa Ngục Draven",
+    "tier": "A",
+    "avgRank": 3.29,
+    "top4Rate": "69.8%",
+    "winRate": "31.5%",
+    "pickRate": "0.3%",
+    "isHeroAugment": false,
+    "cost": 114,
+    "teamCode": "023ed4283fc40540b4153fb430000000TFTSet18",
+    "traits": [
+      "Bá Chủ",
+      "Thụ Thần",
+      "Cổ Thụ",
+      "Săn Thưởng",
+      "Lục Bảo",
+      "Hỏa Ngục",
+      "Dũng Sĩ",
+      "Tiên Phong",
+      "Đao Phủ",
+      "Thuật Sĩ",
+      "Quái Rừng"
+    ],
+    "units": [
+      {
+        "name": "Amumu",
+        "key": "DA_Amumu18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Người Đá",
+        "key": "DA_Sentinel18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Rồng Ngàn Tuổi",
+        "key": "DA_18_ElderDragon",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Vô Cực Kiếm",
+          "Cung Xanh",
+          "Chùy Đoản Côn"
+        ]
+      },
+      {
+        "name": "Ivern",
+        "key": "DA_18_Ivern",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Kennen",
+        "key": "DA_18_Kennen",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Áo Choàng Bóng Tối",
+          "Bàn Tay Công Lý",
+          "Găng Bảo Thạch"
+        ]
+      },
+      {
+        "name": "Maokai",
+        "key": "DA_18_Maokai",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Draven",
+        "key": "DA_Draven18",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Kiếm Tử Thần",
+          "Cuồng Đao Guinsoo",
+          "Thịnh Nộ Thủy Quái"
+        ]
+      },
+      {
+        "name": "Taric",
+        "key": "DA_Taric18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "ec4c737b5836635daa916e4510e45196",
+    "name": "Quái Rừng Pebbles",
+    "tier": "A",
+    "avgRank": 3.7,
+    "top4Rate": "69.4%",
+    "winRate": "9.1%",
+    "pickRate": "0.4%",
+    "isHeroAugment": false,
+    "cost": 66,
+    "teamCode": "024293f740241942642240f3f3428000TFTSet18",
+    "traits": [
+      "Quái Rừng",
+      "Thuật Sĩ",
+      "Tàn Phá",
+      "Thợ Săn",
+      "Liên Kích",
+      "Triệu Hồi",
+      "Thích Ứng",
+      "Đấu Sĩ",
+      "Dũng Sĩ",
+      "Tiên Phong"
+    ],
+    "units": [
+      {
+        "name": "Sỏi",
+        "key": "DA_18_Sentry",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Bùa Xanh",
+          "Găng Bảo Thạch",
+          "Mũ Phù Thủy Rabadon"
+        ]
+      },
+      {
+        "name": "Mầm Non",
+        "key": "DA_Cinderling18",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Cóc Thành Tinh",
+        "key": "DA_Gromp18_AP",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Sói Hắc Ám",
+        "key": "DA_Murkwolf18",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Cua Kỳ Cục",
+        "key": "DA_Scuttlecrab18",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Chim Mẹ",
+        "key": "DA_CrimsonRaptor18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Quái Đá Krug",
+        "key": "DA_Krug18",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Bụi Gai Đỏ",
+        "key": "DA_Brambleback18",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Huyết Kiếm",
+          "Móng Vuốt Sterak",
+          "Quyền Năng Khổng Lồ"
+        ]
+      },
+      {
+        "name": "Người Đá",
+        "key": "DA_Sentinel18",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "199fc60ef48d77b2b6e59fe673f58509",
+    "name": "Thợ Săn Caitlyn",
+    "tier": "A",
+    "avgRank": 3.1,
+    "top4Rate": "81.3%",
+    "winRate": "14.9%",
+    "pickRate": "0.2%",
+    "isHeroAugment": false,
+    "cost": 66,
+    "teamCode": "024203f442742643343742c3f0000000TFTSet18",
+    "traits": [
+      "Thợ Săn",
+      "Dũng Sĩ",
+      "Tiên Linh",
+      "Nguyên Sinh",
+      "Hoa Linh",
+      "Tiên Hắc Ám",
+      "Tiên Phong",
+      "Mặt Trời",
+      "Tinh Nghịch",
+      "Quái Rừng"
+    ],
+    "units": [
+      {
+        "name": "Rakan",
+        "key": "DA_18_Rakan",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Caitlyn",
+        "key": "DA_18_Caitlyn",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Cuồng Đao Guinsoo",
+          "Kiếm Súng Hextech",
+          "Thịnh Nộ Thủy Quái"
+        ]
+      },
+      {
+        "name": "Sejuani",
+        "key": "DA_18_Sejuani",
+        "star": 3,
+        "isCore": false,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Cua Kỳ Cục",
+        "key": "DA_Scuttlecrab18",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Tristana",
+        "key": "DA_18_Tristana",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Vi",
+        "key": "DA_Vi18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Sivir",
+        "key": "DA_18_Sivir",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Vô Cực Kiếm",
+          "Cung Xanh",
+          "Bùa Đỏ"
+        ]
+      },
+      {
+        "name": "Ashe",
+        "key": "DA_18_Ashe",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "8ff8472e05018239b3bb79e2a57cbf2a",
+    "name": "Thần Rừng Aphelios",
+    "tier": "A",
+    "avgRank": 3.1,
+    "top4Rate": "79.8%",
+    "winRate": "18.5%",
+    "pickRate": "0.2%",
+    "isHeroAugment": false,
+    "cost": 84,
+    "teamCode": "0241f4393eb3fa4033ef4123ec401000TFTSet18",
+    "traits": [
+      "Hòa Hợp",
+      "Mặt Trăng",
+      "Thần Rừng",
+      "Đấu Sĩ",
+      "Liên Kích",
+      "Tiên Phong",
+      "Vệ Quân",
+      "Tiên Linh",
+      "Thuật Sư",
+      "Tàn Phá",
+      "Tinh Nghịch"
+    ],
+    "units": [
+      {
+        "name": "Ornn",
+        "key": "DA_18_Ornn",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Xayah",
+        "key": "DA_18_Xayah",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Alistar",
+        "key": "DA_18_Alistar",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Diana",
+        "key": "DA_18_Diana",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Hecarim",
+        "key": "DA_18_Hecarim",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Giáp Vai Nguyệt Thần",
+          "Áo Choàng Lửa",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Aphelios",
+        "key": "DA_18_Aphelios",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Cuồng Đao Guinsoo",
+          "Vô Cực Kiếm",
+          "Thịnh Nộ Thủy Quái"
+        ]
+      },
+      {
+        "name": "Lillia",
+        "key": "DA_18_Lillia",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Giáp Vai Nguyệt Thần",
+          "Lời Thề Hộ Vệ",
+          "Áo Choàng Lửa"
+        ]
+      },
+      {
+        "name": "Alune",
+        "key": "DA_18_Alune",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Găng Bảo Thạch",
+          "Ngọn Giáo Shojin",
+          "Trượng Hư Vô"
+        ]
+      },
+      {
+        "name": "Gnar",
+        "key": "DA_18_GnarSmall",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "f2b9a00d55dd77ad40df47a20bf987ef",
+    "name": "Thợ Săn Sivir",
+    "tier": "A",
+    "avgRank": 2.9,
+    "top4Rate": "82.3%",
+    "winRate": "25.6%",
+    "pickRate": "0.1%",
+    "isHeroAugment": false,
+    "cost": 105,
+    "teamCode": "0242b43343741242c3ed3f040540b000TFTSet18",
+    "traits": [
+      "Thụ Thần",
+      "Thợ Săn",
+      "Hỏa Ngục",
+      "Vệ Quân",
+      "Tiên Linh",
+      "Nguyên Sinh",
+      "Dũng Sĩ",
+      "Hoa Linh",
+      "Đao Phủ",
+      "Tinh Nghịch"
+    ],
+    "units": [
+      {
+        "name": "Shen",
+        "key": "DA_18_Shen",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Tristana",
+        "key": "DA_18_Tristana",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Vi",
+        "key": "DA_Vi18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Lillia",
+        "key": "DA_18_Lillia",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Vương Miện Hoàng Gia",
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Sivir",
+        "key": "DA_18_Sivir",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Vô Cực Kiếm",
+          "Ngọn Giáo Shojin",
+          "Chùy Đoản Côn"
+        ]
+      },
+      {
+        "name": "Amumu",
+        "key": "DA_Amumu18",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Ashe",
+        "key": "DA_18_Ashe",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Cung Xanh",
+          "Bùa Đỏ",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      {
+        "name": "Ivern",
+        "key": "DA_18_Ivern",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Kennen",
+        "key": "DA_18_Kennen",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "b9c6def24ca3b0a91858604e62d280cd",
+    "name": "Tiên Phong Morgana",
+    "tier": "A",
+    "avgRank": 2.82,
+    "top4Rate": "84.4%",
+    "winRate": "25.4%",
+    "pickRate": "0.1%",
+    "isHeroAugment": false,
+    "cost": 96,
+    "teamCode": "024293fa40340e4183f34283ec430000TFTSet18",
+    "traits": [
+      "Hòa Hợp",
+      "Ăn Mòn",
+      "Lục Bảo",
+      "Tiên Phong",
+      "Thuật Sĩ",
+      "Mặt Trăng",
+      "Tàn Phá",
+      "Quái Rừng",
+      "Thuật Sư",
+      "Thần Rừng",
+      "Tiên Hắc Ám",
+      "Thích Ứng"
+    ],
+    "units": [
+      {
+        "name": "Sỏi",
+        "key": "DA_18_Sentry",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Diana",
+        "key": "DA_18_Diana",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Hecarim",
+        "key": "DA_18_Hecarim",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Kog'Maw",
+        "key": "DA_KogMaw18_AD",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Morgana",
+        "key": "DA_18_Morgana",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Quỷ Thư Morello",
+          "Mũ Phù Thủy Rabadon",
+          "Trượng Hư Vô"
+        ]
+      },
+      {
+        "name": "Bụi Gai Đỏ",
+        "key": "DA_Brambleback18",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Áo Choàng Bóng Tối",
+          "Diệt Khổng Lồ",
+          "Áo Choàng Thủy Ngân"
+        ]
+      },
+      {
+        "name": "Người Đá",
+        "key": "DA_Sentinel18",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Mũ Thích Nghi",
+          "Lời Thề Hộ Vệ",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Alune",
+        "key": "DA_18_Alune",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Ấn Thuật Sĩ",
+          "Găng Bảo Thạch",
+          "Chùy Đoản Côn"
+        ]
+      },
+      {
+        "name": "Taric",
+        "key": "DA_Taric18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "454706bba85535d10f9a73c6bca8da80",
+    "name": "Thần Rừng Rengar",
+    "tier": "A",
+    "avgRank": 2.82,
+    "top4Rate": "82.8%",
+    "winRate": "28.2%",
+    "pickRate": "0.1%",
+    "isHeroAugment": false,
+    "cost": 78,
+    "teamCode": "024103fa40340c4243ef3ff42e000000TFTSet18",
+    "traits": [
+      "Khắc Tinh",
+      "Thực Vật",
+      "Mặt Trăng",
+      "Tiên Phong",
+      "Đao Phủ",
+      "Thần Rừng",
+      "Liên Kích",
+      "Tàn Phá",
+      "Thuật Sư"
+    ],
+    "units": [
+      {
+        "name": "LeBlanc",
+        "key": "DA_18_LeBlanc",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Diana",
+        "key": "DA_18_Diana",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Hecarim",
+        "key": "DA_18_Hecarim",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Kha'Zix",
+        "key": "DA_18_KhaZix",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Áo Choàng Bóng Tối",
+          "Bàn Tay Công Lý",
+          "Mũ Phù Thủy Rabadon"
+        ]
+      },
+      {
+        "name": "Rengar",
+        "key": "DA_18_Rengar",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Áo Choàng Bóng Tối",
+          "Cuồng Đao Guinsoo",
+          "Quyền Năng Khổng Lồ"
+        ]
+      },
+      {
+        "name": "Aphelios",
+        "key": "DA_18_Aphelios",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Cung Xanh",
+          "Bùa Đỏ"
+        ]
+      },
+      {
+        "name": "Ezreal",
+        "key": "DA_18_Ezreal",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Soraka",
+        "key": "DA_18_Soraka",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "a3243a33355c69d9d432b0b6d2834c83",
+    "name": "Thuật Sư Ahri",
+    "tier": "A",
+    "avgRank": 2.98,
+    "top4Rate": "80.2%",
+    "winRate": "26.3%",
+    "pickRate": "0.1%",
+    "isHeroAugment": false,
+    "cost": 99,
+    "teamCode": "023fd3f63fa4003e94184283ec430000TFTSet18",
+    "traits": [
+      "Hòa Hợp",
+      "Lục Bảo",
+      "Thuật Sư",
+      "Tiên Phong",
+      "Thực Vật",
+      "Mặt Trăng",
+      "Thuật Sĩ",
+      "Tiên Hắc Ám",
+      "Hoa Linh",
+      "Tàn Phá",
+      "Vệ Quân",
+      "Quái Rừng"
+    ],
+    "units": [
+      {
+        "name": "Elise",
+        "key": "DA_18_Elise",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Cassiopeia",
+        "key": "DA_18_Cassiopeia",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Diana",
+        "key": "DA_18_Diana",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Fiddlesticks",
+        "key": "DA_Fiddlesticks18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Ahri",
+        "key": "DA_18_Ahri",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Găng Bảo Thạch",
+          "Ngọn Giáo Shojin",
+          "Chùy Đoản Côn"
+        ]
+      },
+      {
+        "name": "Morgana",
+        "key": "DA_18_Morgana",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Mũ Thích Nghi",
+          "Quỷ Thư Morello",
+          "Trượng Hư Vô"
+        ]
+      },
+      {
+        "name": "Người Đá",
+        "key": "DA_Sentinel18",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Lời Thề Hộ Vệ",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Alune",
+        "key": "DA_18_Alune",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Găng Bảo Thạch",
+          "Mũ Phù Thủy Rabadon",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      {
+        "name": "Taric",
+        "key": "DA_Taric18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "1c3c58439489091d17a553be8705335e",
+    "name": "Tinh Nghịch Tristana",
+    "tier": "A",
+    "avgRank": 3.43,
+    "top4Rate": "70.2%",
+    "winRate": "23.0%",
+    "pickRate": "0.2%",
+    "isHeroAugment": false,
+    "cost": 66,
+    "teamCode": "0243d42042142443343741242c000000TFTSet18",
+    "traits": [
+      "Khắc Tinh",
+      "Vệ Quân",
+      "Dũng Sĩ",
+      "Thợ Săn",
+      "Nguyên Sinh",
+      "Tinh Nghịch",
+      "Tiên Linh",
+      "Đấu Sĩ",
+      "Tiên Phong"
+    ],
+    "units": [
+      {
+        "name": "Kobuko",
+        "key": "DA_18_Kobuko",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Rakan",
+        "key": "DA_18_Rakan",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Rammus",
+        "key": "DA_18_Rammus",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Rengar",
+        "key": "DA_18_Rengar",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Ấn Tiên Linh",
+          "Móng Vuốt Sterak",
+          "Quyền Năng Khổng Lồ"
+        ]
+      },
+      {
+        "name": "Tristana",
+        "key": "DA_18_Tristana",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Cuồng Đao Guinsoo",
+          "Kiếm Súng Hextech",
+          "Thịnh Nộ Thủy Quái"
+        ]
+      },
+      {
+        "name": "Vi",
+        "key": "DA_Vi18",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Lillia",
+        "key": "DA_18_Lillia",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Sivir",
+        "key": "DA_18_Sivir",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Cung Xanh",
+          "Bùa Đỏ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0319050d9ce0327adee0368a595d4c17",
+    "name": "Đao Phủ Malphite",
+    "tier": "A",
+    "avgRank": 4.36,
+    "top4Rate": "53.4%",
+    "winRate": "8.2%",
+    "pickRate": "1.2%",
+    "isHeroAugment": false,
+    "cost": 84,
+    "teamCode": "0243a3f140041442e43c3ed40b000000TFTSet18",
+    "traits": [
+      "Cự Thạch",
+      "Vườn Gai",
+      "Thực Vật",
+      "Triệu Hồi",
+      "Đao Phủ",
+      "Gai Đen",
+      "Hỏa Ngục",
+      "Dũng Sĩ",
+      "Hoa Linh",
+      "Vệ Quân",
+      "Thuật Sư"
+    ],
+    "units": [
+      {
+        "name": "Yorick",
+        "key": "DA_18_Yorick",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Azir",
+        "key": "DA_18_Azir",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Fiddlesticks",
+        "key": "DA_Fiddlesticks18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Malphite",
+        "key": "DA_18_Malphite",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Vương Miện Hoàng Gia",
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Soraka",
+        "key": "DA_18_Soraka",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Nanh Nashor",
+          "Mũ Phù Thủy Rabadon",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      {
+        "name": "Zyra",
+        "key": "DA_18_Zyra",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Quyền Trượng Thiên Thần",
+          "Ngọn Giáo Shojin",
+          "Trượng Hư Vô"
+        ]
+      },
+      {
+        "name": "Amumu",
+        "key": "DA_Amumu18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Kennen",
+        "key": "DA_18_Kennen",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Kiếm Súng Hextech",
+          "Mũ Phù Thủy Rabadon",
+          "Găng Đạo Tặc"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7f169105afeaec049470b3025cdc3b17",
+    "name": "Thợ Săn Nidalee",
+    "tier": "A",
+    "avgRank": 2.34,
+    "top4Rate": "92.7%",
+    "winRate": "30.5%",
+    "pickRate": "0.1%",
+    "isHeroAugment": false,
+    "cost": 105,
+    "teamCode": "0242340e41442c41b4283f0401430000TFTSet18",
+    "traits": [
+      "Cự Thạch",
+      "Ăn Mòn",
+      "Lục Bảo",
+      "Thợ Săn",
+      "Đấu Sĩ",
+      "Gai Đen",
+      "Nguyên Sinh",
+      "Thích Ứng",
+      "Thuật Sĩ",
+      "Tiên Phong",
+      "Hoa Linh",
+      "Thần Rừng",
+      "Tinh Nghịch",
+      "Quái Rừng"
+    ],
+    "units": [
+      {
+        "name": "Rek'Sai",
+        "key": "DA_18_RekSai",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Kog'Maw",
+        "key": "DA_KogMaw18_AD",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Malphite",
+        "key": "DA_18_Malphite",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Vương Miện Hoàng Gia",
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Sivir",
+        "key": "DA_18_Sivir",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Vô Cực Kiếm",
+          "Bùa Đỏ",
+          "Chùy Đoản Côn"
+        ]
+      },
+      {
+        "name": "Nidalee",
+        "key": "DA_Nidalee18_AP",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Vô Cực Kiếm",
+          "Ngọn Giáo Shojin",
+          "Móng Vuốt Sterak"
+        ]
+      },
+      {
+        "name": "Người Đá",
+        "key": "DA_Sentinel18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Ashe",
+        "key": "DA_18_Ashe",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Vô Cực Kiếm",
+          "Bùa Đỏ",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      {
+        "name": "Gnar",
+        "key": "DA_18_GnarSmall",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Taric",
+        "key": "DA_Taric18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "8c731878e6db57afc3ca5752972c76dd",
+    "name": "Thần Rừng Ezreal",
+    "tier": "B",
+    "avgRank": 3.14,
+    "top4Rate": "77.4%",
+    "winRate": "21.7%",
+    "pickRate": "0.1%",
+    "isHeroAugment": false,
+    "cost": 75,
+    "teamCode": "0241f4393eb4104034003ff42e401000TFTSet18",
+    "traits": [
+      "Thực Vật",
+      "Thần Rừng",
+      "Đấu Sĩ",
+      "Đao Phủ",
+      "Thuật Sư",
+      "Vệ Quân",
+      "Tinh Nghịch",
+      "Tiên Phong",
+      "Tiên Linh",
+      "Liên Kích"
+    ],
+    "units": [
+      {
+        "name": "Ornn",
+        "key": "DA_18_Ornn",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Xayah",
+        "key": "DA_18_Xayah",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Alistar",
+        "key": "DA_18_Alistar",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "LeBlanc",
+        "key": "DA_18_LeBlanc",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Hecarim",
+        "key": "DA_18_Hecarim",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Fiddlesticks",
+        "key": "DA_Fiddlesticks18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Ezreal",
+        "key": "DA_18_Ezreal",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Kiếm Tử Thần",
+          "Cung Xanh",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      {
+        "name": "Soraka",
+        "key": "DA_18_Soraka",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Mũ Phù Thủy Rabadon",
+          "Ngọn Giáo Shojin",
+          "Trượng Hư Vô"
+        ]
+      },
+      {
+        "name": "Gnar",
+        "key": "DA_18_GnarSmall",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Huyết Kiếm",
+          "Móng Vuốt Sterak",
+          "Quyền Năng Khổng Lồ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cb391239b8088d27fee7af6c0d009a34",
+    "name": "Mặt Trăng Kayle",
+    "tier": "B",
+    "avgRank": 2.84,
+    "top4Rate": "81.3%",
+    "winRate": "28.1%",
+    "pickRate": "0.1%",
+    "isHeroAugment": false,
+    "cost": 60,
+    "teamCode": "0241143540a42742b3fa3ef3ec000000TFTSet18",
+    "traits": [
+      "Hòa Hợp",
+      "Mặt Trời",
+      "Mặt Trăng",
+      "Liên Kích",
+      "Vệ Quân",
+      "Hỏa Ngục",
+      "Thuật Sư",
+      "Tàn Phá",
+      "Tiên Phong",
+      "Dũng Sĩ"
+    ],
+    "units": [
+      {
+        "name": "Leona",
+        "key": "DA_18_Leona",
+        "star": 3,
+        "isCore": false,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Varus",
+        "key": "DA_18_Varus",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Kayle",
+        "key": "DA_18_Kayle",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Cuồng Đao Guinsoo",
+          "Cuồng Đao Guinsoo",
+          "Găng Bảo Thạch"
+        ]
+      },
+      {
+        "name": "Sejuani",
+        "key": "DA_18_Sejuani",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Shen",
+        "key": "DA_18_Shen",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Diana",
+        "key": "DA_18_Diana",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Aphelios",
+        "key": "DA_18_Aphelios",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Cuồng Đao Guinsoo",
+          "Vô Cực Kiếm",
+          "Thịnh Nộ Thủy Quái"
+        ]
+      },
+      {
+        "name": "Alune",
+        "key": "DA_18_Alune",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "75e8b5c2a412c4a7a82b33dd5a90fae0",
+    "name": "Gai Đen Warwick",
+    "tier": "B",
+    "avgRank": 3.84,
+    "top4Rate": "66.8%",
+    "winRate": "7.1%",
+    "pickRate": "0.2%",
+    "isHeroAugment": false,
+    "cost": 66,
+    "teamCode": "024234384193f13fa40f4143f3000000TFTSet18",
+    "traits": [
+      "Cự Thạch",
+      "Gai Đen",
+      "Tàn Phá",
+      "Đấu Sĩ",
+      "Quái Rừng",
+      "Đao Phủ",
+      "Triệu Hồi",
+      "Mặt Trăng",
+      "Tiên Phong"
+    ],
+    "units": [
+      {
+        "name": "Rek'Sai",
+        "key": "DA_18_RekSai",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Warwick",
+        "key": "DA_18_Warwick",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Ngọn Giáo Shojin",
+          "Móng Vuốt Sterak",
+          "Quyền Năng Khổng Lồ"
+        ]
+      },
+      {
+        "name": "Sói Hắc Ám",
+        "key": "DA_Murkwolf18",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Kiếm Tử Thần",
+          "Áo Choàng Bóng Tối",
+          "Bàn Tay Công Lý"
+        ]
+      },
+      {
+        "name": "Azir",
+        "key": "DA_18_Azir",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Cuồng Đao Guinsoo",
+          "Quỷ Thư Morello",
+          "Trượng Hư Vô"
+        ]
+      },
+      {
+        "name": "Diana",
+        "key": "DA_18_Diana",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Quái Đá Krug",
+        "key": "DA_Krug18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Malphite",
+        "key": "DA_18_Malphite",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Vương Miện Hoàng Gia",
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Bụi Gai Đỏ",
+        "key": "DA_Brambleback18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "4a45a84a17442bdc05a0481d44276a84",
+    "name": "Hỏa Ngục Kayle",
+    "tier": "B",
+    "avgRank": 3.5,
+    "top4Rate": "69.4%",
+    "winRate": "18.1%",
+    "pickRate": "0.1%",
+    "isHeroAugment": false,
+    "cost": 54,
+    "teamCode": "023ea41143540a42742b3ed40b000000TFTSet18",
+    "traits": [
+      "Mặt Trời",
+      "Hỏa Ngục",
+      "Liên Kích",
+      "Vệ Quân",
+      "Dũng Sĩ",
+      "Thích Ứng",
+      "Tàn Phá",
+      "Đao Phủ"
+    ],
+    "units": [
+      {
+        "name": "Akali",
+        "key": "DA_18_Akali_AD",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Leona",
+        "key": "DA_18_Leona",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Varus",
+        "key": "DA_18_Varus",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Kiếm Tử Thần",
+          "Vô Cực Kiếm",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      {
+        "name": "Kayle",
+        "key": "DA_18_Kayle",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Cuồng Đao Guinsoo",
+          "Cuồng Đao Guinsoo",
+          "Găng Bảo Thạch"
+        ]
+      },
+      {
+        "name": "Sejuani",
+        "key": "DA_18_Sejuani",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Shen",
+        "key": "DA_18_Shen",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Amumu",
+        "key": "DA_Amumu18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Kennen",
+        "key": "DA_18_Kennen",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Áo Choàng Bóng Tối",
+          "Bàn Tay Công Lý",
+          "Găng Bảo Thạch"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8d845069e52e4aea80c6ad2e084a48c2",
+    "name": "Đao Phủ Sett",
+    "tier": "B",
+    "avgRank": 2.74,
+    "top4Rate": "85.6%",
+    "winRate": "25.2%",
+    "pickRate": "0.1%",
+    "isHeroAugment": false,
+    "cost": 96,
+    "teamCode": "0241f43b4003e93ff42a42e40140b000TFTSet18",
+    "traits": [
+      "Thực Vật",
+      "Đao Phủ",
+      "Thuật Sư",
+      "Đấu Sĩ",
+      "Vệ Quân",
+      "Hoa Linh",
+      "Thần Rừng",
+      "Tinh Nghịch",
+      "Hỏa Ngục"
+    ],
+    "units": [
+      {
+        "name": "Ornn",
+        "key": "DA_18_Ornn",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Yunara",
+        "key": "DA_18_Yunara",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Fiddlesticks",
+        "key": "DA_Fiddlesticks18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Ahri",
+        "key": "DA_18_Ahri",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Mũ Thích Nghi",
+          "Quỷ Thư Morello",
+          "Trượng Hư Vô"
+        ]
+      },
+      {
+        "name": "Ezreal",
+        "key": "DA_18_Ezreal",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Kiếm Tử Thần",
+          "Cung Xanh",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      {
+        "name": "Sett",
+        "key": "DA_18_Sett",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Soraka",
+        "key": "DA_18_Soraka",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Quyền Trượng Thiên Thần",
+          "Mũ Phù Thủy Rabadon",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      {
+        "name": "Gnar",
+        "key": "DA_18_GnarSmall",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Kennen",
+        "key": "DA_18_Kennen",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "93d4dd8f1db136005a571c483d9055fd",
+    "name": "Mặt Trời Akali",
+    "tier": "C",
+    "avgRank": 3.2,
+    "top4Rate": "79.1%",
+    "winRate": "16.6%",
+    "pickRate": "0.0%",
+    "isHeroAugment": false,
+    "cost": 36,
+    "teamCode": "023ea3f541141f43540a42740e000000TFTSet18",
+    "traits": [
+      "Ăn Mòn",
+      "Mặt Trời",
+      "Thích Ứng",
+      "Hỏa Ngục",
+      "Tàn Phá",
+      "Liên Kích",
+      "Vệ Quân",
+      "Tiên Hắc Ám",
+      "Thần Rừng",
+      "Dũng Sĩ",
+      "Thuật Sĩ"
+    ],
+    "units": [
+      {
+        "name": "Akali",
+        "key": "DA_18_Akali_AD",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Áo Choàng Bóng Tối",
+          "Bàn Tay Công Lý",
+          "Găng Bảo Thạch"
+        ]
+      },
+      {
+        "name": "Camille",
+        "key": "DA_18_Camille",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Vô Cực Kiếm",
+          "Áo Choàng Thủy Ngân",
+          "Móng Vuốt Sterak"
+        ]
+      },
+      {
+        "name": "Leona",
+        "key": "DA_18_Leona",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Ornn",
+        "key": "DA_18_Ornn",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Varus",
+        "key": "DA_18_Varus",
+        "star": 3,
+        "isCore": false,
+        "items": [
+          "Vô Cực Kiếm",
+          "Cung Xanh",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      {
+        "name": "Kayle",
+        "key": "DA_18_Kayle",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Sejuani",
+        "key": "DA_18_Sejuani",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Kog'Maw",
+        "key": "DA_KogMaw18_AD",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "abb223f530a66becdf9d550f893958d0",
+    "name": "Hoa Linh Ahri",
+    "tier": "C",
+    "avgRank": 3.35,
+    "top4Rate": "74.5%",
+    "winRate": "18.8%",
+    "pickRate": "0.0%",
+    "isHeroAugment": false,
+    "cost": 90,
+    "teamCode": "0243a40743b4163e942a3f0401415000TFTSet18",
+    "traits": [
+      "Cổ Thụ",
+      "Hoa Linh",
+      "Thuật Sư",
+      "Đấu Sĩ",
+      "Dũng Sĩ",
+      "Thợ Săn",
+      "Thần Rừng",
+      "Tinh Nghịch",
+      "Thích Ứng",
+      "Triệu Hồi",
+      "Đao Phủ"
+    ],
+    "units": [
+      {
+        "name": "Yorick",
+        "key": "DA_18_Yorick",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Karma",
+        "key": "DA_Karma18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Yunara",
+        "key": "DA_18_Yunara",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Master Yi",
+        "key": "DA_18_MasterYi_AD",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Ahri",
+        "key": "DA_18_Ahri",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Găng Bảo Thạch",
+          "Ngọn Giáo Shojin",
+          "Chùy Đoản Côn"
+        ]
+      },
+      {
+        "name": "Sett",
+        "key": "DA_18_Sett",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Ashe",
+        "key": "DA_18_Ashe",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Cung Xanh",
+          "Bùa Đỏ",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      {
+        "name": "Gnar",
+        "key": "DA_18_GnarSmall",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Maokai",
+        "key": "DA_18_Maokai",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "505ee5a85e2c61f0f4d343c583c9aeb9",
+    "name": "Mặt Trăng Ornn",
+    "tier": "C",
+    "avgRank": 1.73,
+    "top4Rate": "95.1%",
+    "winRate": "63.1%",
+    "pickRate": "0.0%",
+    "isHeroAugment": false,
+    "cost": 63,
+    "teamCode": "0241141f43940a4104273fa3ef3ec000TFTSet18",
+    "traits": [
+      "Hòa Hợp",
+      "Mặt Trời",
+      "Mặt Trăng",
+      "Liên Kích",
+      "Thuật Sư",
+      "Vệ Quân",
+      "Thần Rừng",
+      "Tàn Phá",
+      "Tiên Phong",
+      "Dũng Sĩ",
+      "Tiên Linh"
+    ],
+    "units": [
+      {
+        "name": "Leona",
+        "key": "DA_18_Leona",
+        "star": 3,
+        "isCore": false,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Ornn",
+        "key": "DA_18_Ornn",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Xayah",
+        "key": "DA_18_Xayah",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Kayle",
+        "key": "DA_18_Kayle",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Diệt Khổng Lồ",
+          "Cuồng Đao Guinsoo",
+          "Găng Bảo Thạch"
+        ]
+      },
+      {
+        "name": "LeBlanc",
+        "key": "DA_18_LeBlanc",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Sejuani",
+        "key": "DA_18_Sejuani",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Diana",
+        "key": "DA_18_Diana",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Aphelios",
+        "key": "DA_18_Aphelios",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Alune",
+        "key": "DA_18_Alune",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "19734bb881caa1d10c1f589bf2a7dd74",
+    "name": "Gai Đen Veigar",
+    "tier": "C",
+    "avgRank": 3.9,
+    "top4Rate": "63.4%",
+    "winRate": "10.2%",
+    "pickRate": "0.1%",
+    "isHeroAugment": false,
+    "cost": 60,
+    "teamCode": "0243d4234363f142140041442e000000TFTSet18",
+    "traits": [
+      "Cự Thạch",
+      "Thực Vật",
+      "Gai Đen",
+      "Đao Phủ",
+      "Đấu Sĩ",
+      "Vệ Quân",
+      "Thuật Sư",
+      "Tinh Nghịch",
+      "Triệu Hồi"
+    ],
+    "units": [
+      {
+        "name": "Kobuko",
+        "key": "DA_18_Kobuko",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Rek'Sai",
+        "key": "DA_18_RekSai",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Veigar",
+        "key": "DA_18_Veigar",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Bùa Xanh",
+          "Kiếm Súng Hextech",
+          "Găng Bảo Thạch"
+        ]
+      },
+      {
+        "name": "Azir",
+        "key": "DA_18_Azir",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Rammus",
+        "key": "DA_18_Rammus",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Fiddlesticks",
+        "key": "DA_Fiddlesticks18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Malphite",
+        "key": "DA_18_Malphite",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Soraka",
+        "key": "DA_18_Soraka",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Quỷ Thư Morello",
+          "Ngọn Giáo Shojin",
+          "Trượng Hư Vô"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "862b891a9fa40b2c5e4698afa795a75e",
+    "name": "Tiên Phong Nidalee",
+    "tier": "C",
+    "avgRank": 3.01,
+    "top4Rate": "81.5%",
+    "winRate": "17.8%",
+    "pickRate": "0.0%",
+    "isHeroAugment": false,
+    "cost": 96,
+    "teamCode": "024203fa40e43741841b4283ec430000TFTSet18",
+    "traits": [
+      "Hòa Hợp",
+      "Ăn Mòn",
+      "Lục Bảo",
+      "Thuật Sĩ",
+      "Tiên Phong",
+      "Mặt Trăng",
+      "Dũng Sĩ",
+      "Thích Ứng",
+      "Nguyên Sinh",
+      "Thuật Sư",
+      "Tàn Phá",
+      "Tiên Hắc Ám",
+      "Tiên Linh",
+      "Quái Rừng"
+    ],
+    "units": [
+      {
+        "name": "Rakan",
+        "key": "DA_18_Rakan",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Diana",
+        "key": "DA_18_Diana",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Kog'Maw",
+        "key": "DA_KogMaw18_AD",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Vi",
+        "key": "DA_Vi18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Morgana",
+        "key": "DA_18_Morgana",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Mũ Thích Nghi",
+          "Quỷ Thư Morello",
+          "Trượng Hư Vô"
+        ]
+      },
+      {
+        "name": "Nidalee",
+        "key": "DA_Nidalee18_AP",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Cuồng Đao Guinsoo",
+          "Găng Bảo Thạch",
+          "Chùy Đoản Côn"
+        ]
+      },
+      {
+        "name": "Người Đá",
+        "key": "DA_Sentinel18",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Lời Thề Hộ Vệ",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Alune",
+        "key": "DA_18_Alune",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Taric",
+        "key": "DA_Taric18",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Vương Miện Hoàng Gia",
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a51caa87284b3bf6f1852600e72f291b",
+    "name": "Đao Phủ Yunara",
+    "tier": "C",
+    "avgRank": 3.55,
+    "top4Rate": "71.5%",
+    "winRate": "12.7%",
+    "pickRate": "0.0%",
+    "isHeroAugment": false,
+    "cost": 75,
+    "teamCode": "023eb41043b3f13e93ff42a42e000000TFTSet18",
+    "traits": [
+      "Đao Phủ",
+      "Thực Vật",
+      "Thuật Sư",
+      "Đấu Sĩ",
+      "Hoa Linh",
+      "Thần Rừng",
+      "Gai Đen",
+      "Triệu Hồi"
+    ],
+    "units": [
+      {
+        "name": "Alistar",
+        "key": "DA_18_Alistar",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "LeBlanc",
+        "key": "DA_18_LeBlanc",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Yunara",
+        "key": "DA_18_Yunara",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Kiếm Tử Thần",
+          "Ngọn Giáo Shojin",
+          "Chùy Đoản Côn"
+        ]
+      },
+      {
+        "name": "Azir",
+        "key": "DA_18_Azir",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Ahri",
+        "key": "DA_18_Ahri",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Ezreal",
+        "key": "DA_18_Ezreal",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Diệt Khổng Lồ",
+          "Ngọn Giáo Shojin",
+          "Chùy Đoản Côn"
+        ]
+      },
+      {
+        "name": "Sett",
+        "key": "DA_18_Sett",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Soraka",
+        "key": "DA_18_Soraka",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "5c4d5353808d66bf3f2015a33d83650b",
+    "name": "Mặt Trăng Aphelios",
+    "tier": "C",
+    "avgRank": 2.86,
+    "top4Rate": "81.0%",
+    "winRate": "30.0%",
+    "pickRate": "0.0%",
+    "isHeroAugment": false,
+    "cost": 90,
+    "teamCode": "0241140a4273fa4003ef3ec415430000TFTSet18",
+    "traits": [
+      "Hòa Hợp",
+      "Cổ Thụ",
+      "Lục Bảo",
+      "Mặt Trời",
+      "Mặt Trăng",
+      "Thực Vật",
+      "Thuật Sư",
+      "Liên Kích",
+      "Tiên Phong",
+      "Vệ Quân",
+      "Dũng Sĩ",
+      "Tàn Phá"
+    ],
+    "units": [
+      {
+        "name": "Leona",
+        "key": "DA_18_Leona",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Kayle",
+        "key": "DA_18_Kayle",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Sejuani",
+        "key": "DA_18_Sejuani",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Diana",
+        "key": "DA_18_Diana",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Fiddlesticks",
+        "key": "DA_Fiddlesticks18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Aphelios",
+        "key": "DA_18_Aphelios",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Cuồng Đao Guinsoo",
+          "Vô Cực Kiếm",
+          "Thịnh Nộ Thủy Quái"
+        ]
+      },
+      {
+        "name": "Alune",
+        "key": "DA_18_Alune",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Găng Bảo Thạch",
+          "Mũ Phù Thủy Rabadon",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      {
+        "name": "Maokai",
+        "key": "DA_18_Maokai",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Taric",
+        "key": "DA_Taric18",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3063bf0ea1f954ca9a65d4e8559c113c",
+    "name": "Tiên Linh Tristana",
+    "tier": "C",
+    "avgRank": 2.11,
+    "top4Rate": "93.9%",
+    "winRate": "44.0%",
+    "pickRate": "0.0%",
+    "isHeroAugment": false,
+    "cost": 87,
+    "teamCode": "0242043942143343741242c401430000TFTSet18",
+    "traits": [
+      "Lục Bảo",
+      "Tiên Linh",
+      "Vệ Quân",
+      "Dũng Sĩ",
+      "Tiên Phong",
+      "Thợ Săn",
+      "Nguyên Sinh",
+      "Tinh Nghịch",
+      "Đấu Sĩ",
+      "Liên Kích",
+      "Thần Rừng"
+    ],
+    "units": [
+      {
+        "name": "Rakan",
+        "key": "DA_18_Rakan",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Xayah",
+        "key": "DA_18_Xayah",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Rammus",
+        "key": "DA_18_Rammus",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Tristana",
+        "key": "DA_18_Tristana",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Diệt Khổng Lồ",
+          "Cuồng Đao Guinsoo",
+          "Kiếm Súng Hextech"
+        ]
+      },
+      {
+        "name": "Vi",
+        "key": "DA_Vi18",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Lillia",
+        "key": "DA_18_Lillia",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Sivir",
+        "key": "DA_18_Sivir",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Vô Cực Kiếm",
+          "Cung Xanh",
+          "Bùa Đỏ"
+        ]
+      },
+      {
+        "name": "Gnar",
+        "key": "DA_18_GnarSmall",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Taric",
+        "key": "DA_Taric18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "3012181e381bb1295e39b0e07df22bf8",
+    "name": "Tinh Nghịch Teemo",
+    "tier": "C",
+    "avgRank": 4.02,
+    "top4Rate": "62.9%",
+    "winRate": "5.1%",
+    "pickRate": "0.1%",
+    "isHeroAugment": false,
+    "cost": 66,
+    "teamCode": "0243d436431421433412418428000000TFTSet18",
+    "traits": [
+      "Thuật Sĩ",
+      "Tinh Nghịch",
+      "Vệ Quân",
+      "Tiên Linh",
+      "Đấu Sĩ",
+      "Tiên Hắc Ám",
+      "Thợ Săn",
+      "Gai Đen",
+      "Thuật Sư",
+      "Quái Rừng",
+      "Tiên Phong"
+    ],
+    "units": [
+      {
+        "name": "Kobuko",
+        "key": "DA_18_Kobuko",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Veigar",
+        "key": "DA_18_Veigar",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Teemo",
+        "key": "DA_18_Teemo",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Găng Bảo Thạch",
+          "Ngọn Giáo Shojin",
+          "Chùy Đoản Côn"
+        ]
+      },
+      {
+        "name": "Rammus",
+        "key": "DA_18_Rammus",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Tristana",
+        "key": "DA_18_Tristana",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Cuồng Đao Guinsoo",
+          "Kiếm Súng Hextech",
+          "Thịnh Nộ Thủy Quái"
+        ]
+      },
+      {
+        "name": "Lillia",
+        "key": "DA_18_Lillia",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Morgana",
+        "key": "DA_18_Morgana",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Kiếm Súng Hextech",
+          "Quỷ Thư Morello",
+          "Trượng Hư Vô"
+        ]
+      },
+      {
+        "name": "Người Đá",
+        "key": "DA_Sentinel18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "44dabff846792879b5d89ebdc79a425f",
+    "name": "Quái Rừng Pebbles",
+    "tier": "C",
+    "avgRank": 2.78,
+    "top4Rate": "82.5%",
+    "winRate": "30.2%",
+    "pickRate": "0.0%",
+    "isHeroAugment": false,
+    "cost": 78,
+    "teamCode": "024293f742640f4283fc401415000000TFTSet18",
+    "traits": [
+      "Bá Chủ",
+      "Cổ Thụ",
+      "Quái Rừng",
+      "Đấu Sĩ",
+      "Dũng Sĩ",
+      "Thuật Sĩ",
+      "Thần Rừng",
+      "Tinh Nghịch",
+      "Thợ Săn",
+      "Tiên Phong"
+    ],
+    "units": [
+      {
+        "name": "Sỏi",
+        "key": "DA_18_Sentry",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Bùa Xanh",
+          "Găng Bảo Thạch",
+          "Mũ Phù Thủy Rabadon"
+        ]
+      },
+      {
+        "name": "Mầm Non",
+        "key": "DA_Cinderling18",
+        "star": 3,
+        "isCore": false,
+        "items": [
+          "Bùa Xanh",
+          "Vô Cực Kiếm",
+          "Cung Xanh"
+        ]
+      },
+      {
+        "name": "Cua Kỳ Cục",
+        "key": "DA_Scuttlecrab18",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Quái Đá Krug",
+        "key": "DA_Krug18",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Người Đá",
+        "key": "DA_Sentinel18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Rồng Ngàn Tuổi",
+        "key": "DA_18_ElderDragon",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Vô Cực Kiếm",
+          "Cung Xanh",
+          "Chùy Đoản Côn"
+        ]
+      },
+      {
+        "name": "Gnar",
+        "key": "DA_18_GnarSmall",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Maokai",
+        "key": "DA_18_Maokai",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "0d846e67cd2f664b10bc7e20295bc61c",
+    "name": "Thuật Sư Ahri",
+    "tier": "C",
+    "avgRank": 3.4,
+    "top4Rate": "73.7%",
+    "winRate": "16.4%",
+    "pickRate": "0.0%",
+    "isHeroAugment": false,
+    "cost": 78,
+    "teamCode": "0242043a4073fa4003e941243c3ec000TFTSet18",
+    "traits": [
+      "Hòa Hợp",
+      "Vườn Gai",
+      "Thuật Sư",
+      "Thực Vật",
+      "Mặt Trăng",
+      "Tiên Phong",
+      "Vệ Quân",
+      "Tiên Linh",
+      "Dũng Sĩ",
+      "Triệu Hồi",
+      "Hoa Linh",
+      "Tàn Phá"
+    ],
+    "units": [
+      {
+        "name": "Rakan",
+        "key": "DA_18_Rakan",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Yorick",
+        "key": "DA_18_Yorick",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Karma",
+        "key": "DA_Karma18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Diana",
+        "key": "DA_18_Diana",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Fiddlesticks",
+        "key": "DA_Fiddlesticks18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Ahri",
+        "key": "DA_18_Ahri",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Găng Bảo Thạch",
+          "Ngọn Giáo Shojin",
+          "Chùy Đoản Côn"
+        ]
+      },
+      {
+        "name": "Lillia",
+        "key": "DA_18_Lillia",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Vương Miện Hoàng Gia",
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Zyra",
+        "key": "DA_18_Zyra",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Quỷ Thư Morello",
+          "Ngọn Giáo Shojin",
+          "Trượng Hư Vô"
+        ]
+      },
+      {
+        "name": "Alune",
+        "key": "DA_18_Alune",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Quỷ Thư Morello",
+          "Ngọn Giáo Shojin",
+          "Trượng Hư Vô"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "14f0de785f42bf4411e7463efd524d59",
+    "name": "Tinh Nghịch Tristana",
+    "tier": "C",
+    "avgRank": 3.4,
+    "top4Rate": "73.9%",
+    "winRate": "14.5%",
+    "pickRate": "0.0%",
+    "isHeroAugment": false,
+    "cost": 63,
+    "teamCode": "0243d420436439431421433412401000TFTSet18",
+    "traits": [
+      "Tiên Linh",
+      "Tinh Nghịch",
+      "Đấu Sĩ",
+      "Vệ Quân",
+      "Dũng Sĩ",
+      "Tiên Phong",
+      "Thuật Sĩ",
+      "Thợ Săn",
+      "Gai Đen",
+      "Thuật Sư",
+      "Liên Kích",
+      "Thần Rừng"
+    ],
+    "units": [
+      {
+        "name": "Kobuko",
+        "key": "DA_18_Kobuko",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Rakan",
+        "key": "DA_18_Rakan",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Veigar",
+        "key": "DA_18_Veigar",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Xayah",
+        "key": "DA_18_Xayah",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Teemo",
+        "key": "DA_18_Teemo",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Rammus",
+        "key": "DA_18_Rammus",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Tristana",
+        "key": "DA_18_Tristana",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Cuồng Đao Guinsoo",
+          "Vô Cực Kiếm",
+          "Thịnh Nộ Thủy Quái"
+        ]
+      },
+      {
+        "name": "Lillia",
+        "key": "DA_18_Lillia",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Ấn Tinh Nghịch",
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Gnar",
+        "key": "DA_18_GnarSmall",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Huyết Kiếm",
+          "Móng Vuốt Sterak",
+          "Quyền Năng Khổng Lồ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "74955f8be6eaeeb0b23db55f8d25d5b4",
+    "name": "Mặt Trăng Alune",
+    "tier": "C",
+    "avgRank": 3.55,
+    "top4Rate": "66.0%",
+    "winRate": "21.8%",
+    "pickRate": "0.0%",
+    "isHeroAugment": false,
+    "cost": 117,
+    "teamCode": "023fa40042e3ed3ec40540b415430000TFTSet18",
+    "traits": [
+      "Hòa Hợp",
+      "Thụ Thần",
+      "Cổ Thụ",
+      "Lục Bảo",
+      "Thực Vật",
+      "Mặt Trăng",
+      "Thuật Sư",
+      "Tiên Phong",
+      "Đao Phủ",
+      "Hỏa Ngục",
+      "Dũng Sĩ",
+      "Tàn Phá",
+      "Vệ Quân"
+    ],
+    "units": [
+      {
+        "name": "Diana",
+        "key": "DA_18_Diana",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Fiddlesticks",
+        "key": "DA_Fiddlesticks18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Soraka",
+        "key": "DA_18_Soraka",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Găng Bảo Thạch",
+          "Nanh Nashor",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      {
+        "name": "Amumu",
+        "key": "DA_Amumu18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Alune",
+        "key": "DA_18_Alune",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Găng Bảo Thạch",
+          "Nanh Nashor",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      {
+        "name": "Ivern",
+        "key": "DA_18_Ivern",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Kennen",
+        "key": "DA_18_Kennen",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Áo Choàng Bóng Tối",
+          "Bàn Tay Công Lý",
+          "Mũ Phù Thủy Rabadon"
+        ]
+      },
+      {
+        "name": "Maokai",
+        "key": "DA_18_Maokai",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Taric",
+        "key": "DA_Taric18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "4c2614acace9f26f5f354c48febff3bf",
+    "name": "Thuật Sĩ Nidalee",
+    "tier": "C",
+    "avgRank": 4.5,
+    "top4Rate": "52.4%",
+    "winRate": "4.9%",
+    "pickRate": "0.0%",
+    "isHeroAugment": false,
+    "cost": 78,
+    "teamCode": "0242942640e43741841b428430000000TFTSet18",
+    "traits": [
+      "Ăn Mòn",
+      "Lục Bảo",
+      "Thuật Sĩ",
+      "Thích Ứng",
+      "Nguyên Sinh",
+      "Dũng Sĩ",
+      "Tiên Phong",
+      "Quái Rừng",
+      "Tiên Hắc Ám"
+    ],
+    "units": [
+      {
+        "name": "Sỏi",
+        "key": "DA_18_Sentry",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Cua Kỳ Cục",
+        "key": "DA_Scuttlecrab18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Kog'Maw",
+        "key": "DA_KogMaw18_AD",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Vi",
+        "key": "DA_Vi18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Morgana",
+        "key": "DA_18_Morgana",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Mũ Thích Nghi",
+          "Quyền Trượng Thiên Thần",
+          "Quỷ Thư Morello"
+        ]
+      },
+      {
+        "name": "Nidalee",
+        "key": "DA_Nidalee18_AP",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Cuồng Đao Guinsoo",
+          "Găng Bảo Thạch",
+          "Chùy Đoản Côn"
+        ]
+      },
+      {
+        "name": "Người Đá",
+        "key": "DA_Sentinel18",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Mũ Thích Nghi",
+          "Lời Thề Hộ Vệ",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Taric",
+        "key": "DA_Taric18",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Bùa Xanh",
+          "Thịnh Nộ Thủy Quái",
+          "Găng Đạo Tặc"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "667494dfe456b7160fc7ee58f875b476",
+    "name": "Dũng Sĩ Zyra",
+    "tier": "C",
+    "avgRank": 4.63,
+    "top4Rate": "46.9%",
+    "winRate": "6.9%",
+    "pickRate": "0.0%",
+    "isHeroAugment": false,
+    "cost": 72,
+    "teamCode": "0243a4274263f143743c3ed415000000TFTSet18",
+    "traits": [
+      "Cổ Thụ",
+      "Vườn Gai",
+      "Triệu Hồi",
+      "Dũng Sĩ",
+      "Gai Đen",
+      "Đao Phủ",
+      "Mặt Trời",
+      "Hoa Linh",
+      "Hỏa Ngục",
+      "Quái Rừng",
+      "Nguyên Sinh"
+    ],
+    "units": [
+      {
+        "name": "Yorick",
+        "key": "DA_18_Yorick",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Sejuani",
+        "key": "DA_18_Sejuani",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Cua Kỳ Cục",
+        "key": "DA_Scuttlecrab18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Azir",
+        "key": "DA_18_Azir",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Diệt Khổng Lồ",
+          "Cuồng Đao Guinsoo",
+          "Găng Bảo Thạch"
+        ]
+      },
+      {
+        "name": "Vi",
+        "key": "DA_Vi18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Zyra",
+        "key": "DA_18_Zyra",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Quyền Trượng Thiên Thần",
+          "Quyền Trượng Thiên Thần",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      {
+        "name": "Amumu",
+        "key": "DA_Amumu18",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Maokai",
+        "key": "DA_18_Maokai",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "562c0a39845664891f39149c1946c28b",
+    "name": "Quái Rừng Aphelios",
+    "tier": "C",
+    "avgRank": 4.88,
+    "top4Rate": "42.4%",
+    "winRate": "4.0%",
+    "pickRate": "0.0%",
+    "isHeroAugment": false,
+    "cost": 78,
+    "teamCode": "024233fa42240f3ef41443c428000000TFTSet18",
+    "traits": [
+      "Cự Thạch",
+      "Vườn Gai",
+      "Mặt Trăng",
+      "Liên Kích",
+      "Tiên Phong",
+      "Gai Đen",
+      "Đấu Sĩ",
+      "Triệu Hồi",
+      "Quái Rừng",
+      "Tàn Phá",
+      "Thuật Sĩ"
+    ],
+    "units": [
+      {
+        "name": "Rek'Sai",
+        "key": "DA_18_RekSai",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Diana",
+        "key": "DA_18_Diana",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Chim Mẹ",
+        "key": "DA_CrimsonRaptor18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Quái Đá Krug",
+        "key": "DA_Krug18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Aphelios",
+        "key": "DA_18_Aphelios",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Cuồng Đao Guinsoo",
+          "Vô Cực Kiếm",
+          "Thịnh Nộ Thủy Quái"
+        ]
+      },
+      {
+        "name": "Malphite",
+        "key": "DA_18_Malphite",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Zyra",
+        "key": "DA_18_Zyra",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Găng Bảo Thạch",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      {
+        "name": "Người Đá",
+        "key": "DA_Sentinel18",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Lời Thề Hộ Vệ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7c3aada381ea8080436bcb0ce3e80c3a",
+    "name": "Tinh Nghịch Veigar",
+    "tier": "C",
+    "avgRank": 5.57,
+    "top4Rate": "27.7%",
+    "winRate": "0.6%",
+    "pickRate": "0.0%",
+    "isHeroAugment": false,
+    "cost": 48,
+    "teamCode": "0243d4234364314383f1421433000000TFTSet18",
+    "traits": [
+      "Gai Đen",
+      "Tinh Nghịch",
+      "Đấu Sĩ",
+      "Đao Phủ",
+      "Triệu Hồi",
+      "Vệ Quân",
+      "Thuật Sĩ",
+      "Tiên Linh",
+      "Thợ Săn",
+      "Thuật Sư",
+      "Tàn Phá"
+    ],
+    "units": [
+      {
+        "name": "Kobuko",
+        "key": "DA_18_Kobuko",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Rek'Sai",
+        "key": "DA_18_RekSai",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Veigar",
+        "key": "DA_18_Veigar",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Bùa Xanh",
+          "Găng Bảo Thạch",
+          "Mũ Phù Thủy Rabadon"
+        ]
+      },
+      {
+        "name": "Teemo",
+        "key": "DA_18_Teemo",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Warwick",
+        "key": "DA_18_Warwick",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Huyết Kiếm",
+          "Móng Vuốt Sterak",
+          "Quyền Năng Khổng Lồ"
+        ]
+      },
+      {
+        "name": "Azir",
+        "key": "DA_18_Azir",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Cuồng Đao Guinsoo",
+          "Nanh Nashor"
+        ]
+      },
+      {
+        "name": "Rammus",
+        "key": "DA_18_Rammus",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Tristana",
+        "key": "DA_18_Tristana",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "ec69567bfaf43473c2e2ea5d7541f122",
+    "name": "Thích Ứng Nidalee",
+    "tier": "C",
+    "avgRank": 5.03,
+    "top4Rate": "38.8%",
+    "winRate": "2.9%",
+    "pickRate": "0.0%",
+    "isHeroAugment": false,
+    "cost": 75,
+    "teamCode": "023ea40240e4373ed3f341b428000000TFTSet18",
+    "traits": [
+      "Ăn Mòn",
+      "Thích Ứng",
+      "Hỏa Ngục",
+      "Tàn Phá",
+      "Dũng Sĩ",
+      "Thuật Sĩ",
+      "Nguyên Sinh",
+      "Quái Rừng",
+      "Tiên Phong"
+    ],
+    "units": [
+      {
+        "name": "Akali",
+        "key": "DA_18_Akali_AD",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Cóc Thành Tinh",
+        "key": "DA_Gromp18_AP",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Kog'Maw",
+        "key": "DA_KogMaw18_AD",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Vi",
+        "key": "DA_Vi18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Amumu",
+        "key": "DA_Amumu18",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Vương Miện Hoàng Gia",
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Bụi Gai Đỏ",
+        "key": "DA_Brambleback18",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Áo Choàng Bóng Tối",
+          "Diệt Khổng Lồ",
+          "Áo Choàng Thủy Ngân"
+        ]
+      },
+      {
+        "name": "Nidalee",
+        "key": "DA_Nidalee18_AP",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Ấn Tàn Phá",
+          "Vô Cực Kiếm",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      {
+        "name": "Người Đá",
+        "key": "DA_Sentinel18",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Lời Thề Hộ Vệ",
+          "Giáp Máu Warmog"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d1a05bb7cf099a0eb29e2f49b59a0240",
+    "name": "Gai Đen Ezreal",
+    "tier": "C",
+    "avgRank": 6.01,
+    "top4Rate": "17.3%",
+    "winRate": "0.9%",
+    "pickRate": "0.0%",
+    "isHeroAugment": false,
+    "cost": 69,
+    "teamCode": "0242343643b3f13ff41442a42e000000TFTSet18",
+    "traits": [
+      "Cự Thạch",
+      "Đao Phủ",
+      "Gai Đen",
+      "Thực Vật",
+      "Đấu Sĩ",
+      "Triệu Hồi",
+      "Thần Rừng",
+      "Thuật Sư",
+      "Tinh Nghịch",
+      "Hoa Linh"
+    ],
+    "units": [
+      {
+        "name": "Rek'Sai",
+        "key": "DA_18_RekSai",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Veigar",
+        "key": "DA_18_Veigar",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Yunara",
+        "key": "DA_18_Yunara",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Azir",
+        "key": "DA_18_Azir",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Ezreal",
+        "key": "DA_18_Ezreal",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Cung Xanh",
+          "Ngọn Giáo Shojin",
+          "Chùy Đoản Côn"
+        ]
+      },
+      {
+        "name": "Malphite",
+        "key": "DA_18_Malphite",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Vương Miện Hoàng Gia",
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Sett",
+        "key": "DA_18_Sett",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Giáp Tâm Linh",
+          "Áo Choàng Lửa",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Soraka",
+        "key": "DA_18_Soraka",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Mũ Thích Nghi",
+          "Quyền Trượng Thiên Thần",
+          "Mũ Phù Thủy Rabadon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f7ebd3abd3c7e2db5d67ac9547368e98",
+    "name": "Thần Rừng Xayah",
+    "tier": "C",
+    "avgRank": 5.26,
+    "top4Rate": "34.5%",
+    "winRate": "2.5%",
+    "pickRate": "0.0%",
+    "isHeroAugment": false,
+    "cost": 51,
+    "teamCode": "0241f4204393eb410403433412000000TFTSet18",
+    "traits": [
+      "Tiên Linh",
+      "Thần Rừng",
+      "Tiên Phong",
+      "Vệ Quân",
+      "Đấu Sĩ",
+      "Thuật Sư",
+      "Dũng Sĩ",
+      "Thợ Săn",
+      "Tinh Nghịch",
+      "Liên Kích"
+    ],
+    "units": [
+      {
+        "name": "Ornn",
+        "key": "DA_18_Ornn",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Rakan",
+        "key": "DA_18_Rakan",
+        "star": 3,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Xayah",
+        "key": "DA_18_Xayah",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Cuồng Đao Guinsoo",
+          "Vô Cực Kiếm",
+          "Thịnh Nộ Thủy Quái"
+        ]
+      },
+      {
+        "name": "Alistar",
+        "key": "DA_18_Alistar",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "LeBlanc",
+        "key": "DA_18_LeBlanc",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Bùa Xanh",
+          "Găng Bảo Thạch"
+        ]
+      },
+      {
+        "name": "Hecarim",
+        "key": "DA_18_Hecarim",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Tristana",
+        "key": "DA_18_Tristana",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Cuồng Đao Guinsoo",
+          "Vô Cực Kiếm",
+          "Thịnh Nộ Thủy Quái"
+        ]
+      },
+      {
+        "name": "Lillia",
+        "key": "DA_18_Lillia",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "4e674f4de003c20412d79e840ce05da3",
+    "name": "Thần Rừng Aphelios",
+    "tier": "C",
+    "avgRank": 5.8,
+    "top4Rate": "22.4%",
+    "winRate": "1.1%",
+    "pickRate": "0.0%",
+    "isHeroAugment": false,
+    "cost": 60,
+    "teamCode": "0241f4393eb4103fa4033ef3ff000000TFTSet18",
+    "traits": [
+      "Thần Rừng",
+      "Mặt Trăng",
+      "Liên Kích",
+      "Tiên Phong",
+      "Đấu Sĩ",
+      "Tàn Phá",
+      "Đao Phủ",
+      "Thuật Sư",
+      "Vệ Quân",
+      "Tiên Linh"
+    ],
+    "units": [
+      {
+        "name": "Ornn",
+        "key": "DA_18_Ornn",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Xayah",
+        "key": "DA_18_Xayah",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Alistar",
+        "key": "DA_18_Alistar",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "LeBlanc",
+        "key": "DA_18_LeBlanc",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Diana",
+        "key": "DA_18_Diana",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Ấn Thần Rừng",
+          "Áo Choàng Lửa"
+        ]
+      },
+      {
+        "name": "Hecarim",
+        "key": "DA_18_Hecarim",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Tâm Linh",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Aphelios",
+        "key": "DA_18_Aphelios",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Ấn Thần Rừng",
+          "Cuồng Đao Guinsoo",
+          "Thịnh Nộ Thủy Quái"
+        ]
+      },
+      {
+        "name": "Ezreal",
+        "key": "DA_18_Ezreal",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Vô Cực Kiếm",
+          "Cung Xanh",
+          "Ngọn Giáo Shojin"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f2f340837ef8df974ee687b71dfe7bf5",
+    "name": "Hoa Linh Ahri",
+    "tier": "C",
+    "avgRank": 6.01,
+    "top4Rate": "18.3%",
+    "winRate": "1.0%",
+    "pickRate": "0.0%",
+    "isHeroAugment": false,
+    "cost": 66,
+    "teamCode": "0243a40743b4164373e942a42c000000TFTSet18",
+    "traits": [
+      "Hoa Linh",
+      "Thuật Sư",
+      "Nguyên Sinh",
+      "Dũng Sĩ",
+      "Thích Ứng",
+      "Đấu Sĩ",
+      "Thợ Săn",
+      "Triệu Hồi",
+      "Đao Phủ"
+    ],
+    "units": [
+      {
+        "name": "Yorick",
+        "key": "DA_18_Yorick",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Karma",
+        "key": "DA_Karma18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Yunara",
+        "key": "DA_18_Yunara",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Master Yi",
+        "key": "DA_18_MasterYi_AD",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Vi",
+        "key": "DA_Vi18",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Ấn Hoa Linh",
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Ahri",
+        "key": "DA_18_Ahri",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Găng Bảo Thạch",
+          "Ngọn Giáo Shojin",
+          "Chùy Đoản Côn"
+        ]
+      },
+      {
+        "name": "Sett",
+        "key": "DA_18_Sett",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Sivir",
+        "key": "DA_18_Sivir",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Ấn Hoa Linh",
+          "Vô Cực Kiếm",
+          "Ngọn Giáo Shojin"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "425c626719991c0a31990c7f70782cb4",
+    "name": "Tiên Phong Aphelios",
+    "tier": "C",
+    "avgRank": 4.59,
+    "top4Rate": "48.9%",
+    "winRate": "5.1%",
+    "pickRate": "0.4%",
+    "isHeroAugment": false,
+    "cost": 90,
+    "teamCode": "023fa4034223ef43c3f3428430000000TFTSet18",
+    "traits": [
+      "Vườn Gai",
+      "Lục Bảo",
+      "Tiên Phong",
+      "Mặt Trăng",
+      "Liên Kích",
+      "Tàn Phá",
+      "Triệu Hồi",
+      "Quái Rừng",
+      "Thần Rừng",
+      "Thuật Sĩ"
+    ],
+    "units": [
+      {
+        "name": "Diana",
+        "key": "DA_18_Diana",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Hecarim",
+        "key": "DA_18_Hecarim",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Chim Mẹ",
+        "key": "DA_CrimsonRaptor18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Aphelios",
+        "key": "DA_18_Aphelios",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Cuồng Đao Guinsoo",
+          "Vô Cực Kiếm",
+          "Thịnh Nộ Thủy Quái"
+        ]
+      },
+      {
+        "name": "Zyra",
+        "key": "DA_18_Zyra",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Găng Bảo Thạch",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      {
+        "name": "Bụi Gai Đỏ",
+        "key": "DA_Brambleback18",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Áo Choàng Bóng Tối",
+          "Áo Choàng Thủy Ngân",
+          "Móng Vuốt Sterak"
+        ]
+      },
+      {
+        "name": "Người Đá",
+        "key": "DA_Sentinel18",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Lời Thề Hộ Vệ",
+          "Lời Thề Hộ Vệ",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Taric",
+        "key": "DA_Taric18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "6318635ed8444dcf89b6274579140071",
+    "name": "Thần Rừng Aphelios",
+    "tier": "C",
+    "avgRank": 6.67,
+    "top4Rate": "11.7%",
+    "winRate": "0.9%",
+    "pickRate": "0.0%",
+    "isHeroAugment": false,
+    "cost": 54,
+    "teamCode": "0241f4204394103fa40c4003ef000000TFTSet18",
+    "traits": [
+      "Khắc Tinh",
+      "Thực Vật",
+      "Mặt Trăng",
+      "Liên Kích",
+      "Tiên Phong",
+      "Thuật Sư",
+      "Vệ Quân",
+      "Tiên Linh",
+      "Thần Rừng",
+      "Tàn Phá",
+      "Dũng Sĩ"
+    ],
+    "units": [
+      {
+        "name": "Ornn",
+        "key": "DA_18_Ornn",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Rakan",
+        "key": "DA_18_Rakan",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Xayah",
+        "key": "DA_18_Xayah",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "LeBlanc",
+        "key": "DA_18_LeBlanc",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Mũ Phù Thủy Rabadon",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      {
+        "name": "Diana",
+        "key": "DA_18_Diana",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Kha'Zix",
+        "key": "DA_18_KhaZix",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Áo Choàng Bóng Tối",
+          "Bàn Tay Công Lý",
+          "Găng Bảo Thạch"
+        ]
+      },
+      {
+        "name": "Fiddlesticks",
+        "key": "DA_Fiddlesticks18",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Giáp Tâm Linh",
+          "Áo Choàng Lửa",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Aphelios",
+        "key": "DA_18_Aphelios",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Cuồng Đao Guinsoo",
+          "Thịnh Nộ Thủy Quái",
+          "Cung Xanh"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b60c0933cb4de4d5333927a574697227",
+    "name": "Hoa Linh Ahri",
+    "tier": "C",
+    "avgRank": 4.63,
+    "top4Rate": "47.4%",
+    "winRate": "7.2%",
+    "pickRate": "0.4%",
+    "isHeroAugment": false,
+    "cost": 78,
+    "teamCode": "0242940740f3e941842a428430000000TFTSet18",
+    "traits": [
+      "Lục Bảo",
+      "Thuật Sĩ",
+      "Thuật Sư",
+      "Đấu Sĩ",
+      "Tiên Phong",
+      "Hoa Linh",
+      "Quái Rừng",
+      "Tiên Hắc Ám"
+    ],
+    "units": [
+      {
+        "name": "Sỏi",
+        "key": "DA_18_Sentry",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Karma",
+        "key": "DA_Karma18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Quái Đá Krug",
+        "key": "DA_Krug18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Ahri",
+        "key": "DA_18_Ahri",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Găng Bảo Thạch",
+          "Ngọn Giáo Shojin",
+          "Chùy Đoản Côn"
+        ]
+      },
+      {
+        "name": "Morgana",
+        "key": "DA_18_Morgana",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Mũ Thích Nghi",
+          "Quỷ Thư Morello",
+          "Trượng Hư Vô"
+        ]
+      },
+      {
+        "name": "Sett",
+        "key": "DA_18_Sett",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Người Đá",
+        "key": "DA_Sentinel18",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Mũ Thích Nghi",
+          "Lời Thề Hộ Vệ",
+          "Lời Thề Hộ Vệ"
+        ]
+      },
+      {
+        "name": "Taric",
+        "key": "DA_Taric18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "8150ea4d690393c5cbf7da7627e39b05",
+    "name": "Tiên Hắc Ám Cassiopeia",
+    "tier": "C",
+    "avgRank": 5.49,
+    "top4Rate": "28.8%",
+    "winRate": "3.2%",
+    "pickRate": "0.1%",
+    "isHeroAugment": false,
+    "cost": 66,
+    "teamCode": "023f53f43fd3f63fa403418428000000TFTSet18",
+    "traits": [
+      "Tiên Phong",
+      "Tiên Hắc Ám",
+      "Tàn Phá",
+      "Thuật Sĩ",
+      "Thợ Săn",
+      "Thuật Sư",
+      "Mặt Trăng",
+      "Thần Rừng",
+      "Quái Rừng"
+    ],
+    "units": [
+      {
+        "name": "Camille",
+        "key": "DA_18_Camille",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Caitlyn",
+        "key": "DA_18_Caitlyn",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Elise",
+        "key": "DA_18_Elise",
+        "star": 3,
+        "isCore": true,
+        "items": [
+          "Quyền Trượng Thiên Thần",
+          "Cuồng Đao Guinsoo",
+          "Quyền Năng Khổng Lồ"
+        ]
+      },
+      {
+        "name": "Cassiopeia",
+        "key": "DA_18_Cassiopeia",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Quyền Trượng Thiên Thần",
+          "Kiếm Súng Hextech",
+          "Ngọn Giáo Shojin"
+        ]
+      },
+      {
+        "name": "Diana",
+        "key": "DA_18_Diana",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Hecarim",
+        "key": "DA_18_Hecarim",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Morgana",
+        "key": "DA_18_Morgana",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Kiếm Súng Hextech",
+          "Quỷ Thư Morello",
+          "Trượng Hư Vô"
+        ]
+      },
+      {
+        "name": "Người Đá",
+        "key": "DA_Sentinel18",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a0bf1ee395fbc309dc9ead1631b91abb",
+    "name": "Quái Rừng Sivir",
+    "tier": "C",
+    "avgRank": 4.74,
+    "top4Rate": "45.5%",
+    "winRate": "5.4%",
+    "pickRate": "1.2%",
+    "isHeroAugment": false,
+    "cost": 72,
+    "teamCode": "024233f740e40f41442c41b428000000TFTSet18",
+    "traits": [
+      "Cự Thạch",
+      "Ăn Mòn",
+      "Gai Đen",
+      "Đấu Sĩ",
+      "Thợ Săn",
+      "Nguyên Sinh",
+      "Thích Ứng",
+      "Thuật Sĩ",
+      "Quái Rừng",
+      "Tiên Phong"
+    ],
+    "units": [
+      {
+        "name": "Rek'Sai",
+        "key": "DA_18_RekSai",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Mầm Non",
+        "key": "DA_Cinderling18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Kog'Maw",
+        "key": "DA_KogMaw18_AD",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Quái Đá Krug",
+        "key": "DA_Krug18",
+        "star": 2,
+        "isCore": false,
+        "items": []
+      },
+      {
+        "name": "Malphite",
+        "key": "DA_18_Malphite",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Vương Miện Hoàng Gia",
+          "Thú Tượng Thạch Giáp",
+          "Giáp Máu Warmog"
+        ]
+      },
+      {
+        "name": "Sivir",
+        "key": "DA_18_Sivir",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Vô Cực Kiếm",
+          "Bùa Đỏ",
+          "Chùy Đoản Côn"
+        ]
+      },
+      {
+        "name": "Nidalee",
+        "key": "DA_Nidalee18_AP",
+        "star": 2,
+        "isCore": true,
+        "items": [
+          "Vô Cực Kiếm",
+          "Ngọn Giáo Shojin",
+          "Móng Vuốt Sterak"
+        ]
+      },
+      {
+        "name": "Người Đá",
+        "key": "DA_Sentinel18",
+        "star": 2,
+        "isCore": false,
+        "items": [
+          "Mũ Thích Nghi",
+          "Lời Thề Hộ Vệ"
+        ]
+      }
+    ]
+  }
+]

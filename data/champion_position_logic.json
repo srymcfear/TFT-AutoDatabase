@@ -1,0 +1,74 @@
+[
+  {
+    "champion": "Alistar",
+    "preferred_row": 1,
+    "preferred_col": 1,
+    "role": "MainTank",
+    "logic": "Tiền tuyến hút sát thương & hất tung khống chế diện rộng mở giao tranh",
+    "last_updated": "2026-09-06T15:50:00Z"
+  },
+  {
+    "champion": "Gnar",
+    "preferred_row": 1,
+    "preferred_col": 2,
+    "role": "MeleeBruiser",
+    "logic": "Đấu sĩ cận chiến càn quét và chia sẻ sát thương cùng Alistar",
+    "last_updated": "2026-09-06T15:50:00Z"
+  },
+  {
+    "champion": "Taric",
+    "preferred_row": 1,
+    "preferred_col": 3,
+    "role": "OffTank",
+    "logic": "Chống chịu hỗ trợ tạo khiên bảo kê đồng đội tiền tuyến lân cận",
+    "last_updated": "2026-09-06T15:50:00Z"
+  },
+  {
+    "champion": "Amumu",
+    "preferred_row": 4,
+    "preferred_col": 2,
+    "role": "BacklineGuard",
+    "logic": "Bảo vệ hậu tuyến chống Sát Thủ / Đột Kích tiếp cận chủ lực",
+    "last_updated": "2026-09-06T15:50:00Z"
+  },
+  {
+    "champion": "Ivern",
+    "preferred_row": 4,
+    "preferred_col": 3,
+    "role": "Support",
+    "logic": "Buff khiên Daisy và hồi phục duy trì giao tranh cho đồng đội",
+    "last_updated": "2026-09-06T15:50:00Z"
+  },
+  {
+    "champion": "Kennen",
+    "preferred_row": 4,
+    "preferred_col": 4,
+    "role": "MidSupport",
+    "logic": "Hỗ trợ giật sét diện rộng làm choáng kẻ địch tràn vào hậu tuyến",
+    "last_updated": "2026-09-06T15:50:00Z"
+  },
+  {
+    "champion": "Maokai",
+    "preferred_row": 4,
+    "preferred_col": 5,
+    "role": "Guard",
+    "logic": "Hồi máu bền bỉ che chắn cho các xạ thủ bắn tự do",
+    "last_updated": "2026-09-06T15:50:00Z"
+  },
+  {
+    "champion": "Ezreal",
+    "preferred_row": 4,
+    "preferred_col": 1,
+    "role": "RangedCarry",
+    "logic": "Chủ lực xạ thủ góc an toàn (4,1) dồn sát thương bùng nổ",
+    "last_updated": "2026-09-06T15:50:00Z"
+  },
+  {
+    "champion": "Draven",
+    "preferred_row": 4,
+    "preferred_col": 6,
+    "role": "RangedCarry",
+    "logic": "Xạ thủ xả rìu góc ngoài an toàn được dàn chắn che chở",
+    "last_updated": "2026-09-06T15:50:00Z"
+  }
+]
