@@ -1,0 +1,12 @@
+{
+  "database_version": "1.0.0",
+  "engine_version": "18.1.0",
+  "game_patch": "16.17.1",
+  "tft_patch": "18.1",
+  "season": "season18",
+  "set_name": "Set10",
+  "mutator": "TFTSet18",
+  "total_champions": 55,
+  "data_pack_url": "https://github.com/srymcfear/TFT-AutoDatabase/releases/download/1.0/tft_data_pack.zip",
+  "updated_at": "2026-09-07T02:58:00Z"
+}
